@@ -1,0 +1,622 @@
+[
+  {
+    "category": "Mobile Tunai",
+    "question": "Apakah ada limit transaksi tarik tunai tanpa kartu (Mobile Tunai) di mitra wondr?",
+    "answer": "Ada. Limit tarik tunai tanpa kartu (Mobile Tunai) adalah Rp1.000.000 per hari, berlaku akumulatif untuk semua jenis kartu dalam satu konsolidasi rekening pelanggan."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Bagaimana cara menggunakan fitur tarik tunai tanpa kartu di mitra melalui aplikasi wondr by BNI?",
+    "answer": "Berikut langkah-langkah yang Nasabah bisa ikuti untuk melakukan tarik tunai melalui aplikasi wondr by BNI :\n1. Pilih menu Mobile Tunai di halaman utama aplikasi.\n2. Masukkan data transaksi tarik tunai.\n3. Cek sumber dana yang akan digunakan.\n4. Lihat dan pilih penyedia layanan transaksi tunai (ATM atau merchant).\n5. Masukkan jumlah nominal tarik tunai.\n6. Atau tidak, pilih nominal yang tersedia di aplikasi (opsional).\n7. Ubah sumber dana bila diperlukan.\n8. Gunakan sumber dana dari Tabungan atau Giro dalam IDR.\n9. Klik Lanjut untuk ke halaman konfirmasi.\n10. Periksa kembali detail transaksi dan biaya admin, lalu klik Transaksi Sekarang.\n11. Masukkan PIN wondr by BNI.\n12. Setelah berhasil, Nasabah akan mendapatkan kode token (10 digit) dan batas waktu penggunaannya.\n13. Kode token juga akan dikirimkan ke email yang terdaftar.\n14. Lihat petunjuk transaksi dengan menekan tombol Petunjuk Transaksi atau melalui email.\n15. Tunjukkan kode token ke kasir saat melakukan tarik tunai tanpa kartu di mitra wondr by BNI."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Berapa biaya transaksi tarik tunai (Mobile Tunai) di Alfamart ?",
+    "answer": "Nasabah yang melakukan tarik tunai tanpa kartu (Mobile Tunai) di Alfamart akan dikenakan biaya sebesar Rp5.000 atau Rp6.000 per transaksi, tergantung nominal yang ditarik. Biaya ini akan langsung di-debit dari rekening yang dipilih sebagai sumber dana."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Apakah ada biaya tambahan untuk transaksi Mobile Tunai via mitra wondr?",
+    "answer": "Ya, layanan transaksi tunai tanpa kartu melalui aplikasi wondr dikenakan biaya sesuai dengan kebijakan mitra yang dipilih oleh Nasabah. Kode Transaksi Tarik Tunai berlaku selama 10 menit. Tunjukkan kode token tersebut kepada kasir mitra saat melakukan transaksi."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Apa itu fitur Mobile Tunai?",
+    "answer": "Fitur Mobile Tunai atau tarik tunai tanpa kartu adalah fitur baru di aplikasi wondr. Pengguna wondr dapat melakukan transaksi tarik tunai tanpa kartu debit di ATM Bank BNI, ATM Merah Putih Bank BNI, dan CRM milik Bank BNI."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Bagaimana cara saya menggunakan fitur Mobile Tunai di wondr?",
+    "answer": "Berikut langkah-langkah yang bisa Anda ikuti untuk bertransaksi cardless withdrawal melalui aplikasi wondr by BNI:\n1. Pilih menu Mobile Tunai di halaman utama aplikasi wondr by BNI. Pastikan nomor handphone yang terdaftar adalah dari Indonesia.\n2. Masuk ke halaman input data transaksi tarik tunai tanpa kartu.\n3. Lihat informasi sumber dana yang digunakan untuk transaksi tarik tunai tanpa kartu.\n4. Lihat informasi kanal pengambilan tarik tunai tanpa kartu di ATM Bank BNI.\n5. Masukkan jumlah nominal transaksi untuk tarik tunai.\n6. Pilih nominal yang disediakan oleh aplikasi wondr by BNI.\n7. Ubah sumber dana untuk transaksi tarik tunai tanpa kartu jika diperlukan.\n8. Gunakan sumber dana dari Tabungan dan Giro dalam mata uang IDR.\n9. Setelah semua informasi terisi, tekan tombol “Lanjut” dan Anda akan diarahkan ke halaman konfirmasi.\n10. Konfirmasi informasi data transaksi untuk cardless withdrawal. Setelah data sesuai, tekan tombol “Transaksi Sekarang”.\n11. Masukkan PIN wondr by BNI di halaman otentikasi PIN.\n12. Setelah PIN berhasil divalidasi, kode token beserta batas waktu penggunaannya akan dibuat.\n13. Anda akan menerima email sesuai dengan kode token yang berhasil dibuat.\n14. Lihat petunjuk transaksi dengan menekan tombol “Petunjuk Transaksi” atau melalui email."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Apakah saya dapat membuat lebih dari satu token saat penarikan uang tunai tanpa kartu?",
+    "answer": "Anda dapat membuat beberapa kode token untuk penarikan tunai dengan keperluan atau tujuan berbeda dalam periode tertentu. Anda bisa melihat kode penarikan yang telah dibuat pada menu Notifikasi\n(Notifications)\n."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Apakah saya dikenakan biaya tambahan ketika melakukan transaksi Mobile Tunai?",
+    "answer": "Layanan tarik tunai tanpa kartu di aplikasi wondr by BNI tidak dikenakan biaya. Masa aktif Kode Transaksi Tarik Tunai berlaku selama 2 jam. Namun, pastikan Anda memiliki cukup pulsa untuk menerima kode OTP saat melakukan\ncardless withdrawal\ndi ATM."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Bagaimana saya menggunakan Kode Token di mesin CRM Bank BNI dan atau ATM Bank BNI?",
+    "answer": "Berikut panduan untuk melakukan transaksi tarik tunai tanpa kartu:\n1. Gunakan ATM BNI dan tekan tombol atau layar sebelah kanan untuk memilih menu Transaksi Tanpa Kartu.\n2. Pilih bahasa sebelum memulai transaksi.\n3. Pilih menu Mobile Tunai pada layar ATM BNI.\n4. Pilih menu Tarik Tunai.\n5. Masukkan kode token yang sudah diperoleh dari aplikasi wondr by BNI.\n6. Setelah selesai memasukkan kode token, klik tombol Lanjut pada layar ATM.\n7. Jika kode token berhasil divalidasi, ATM akan menampilkan informasi konfirmasi penarikan tunai sesuai dengan yang dibuat di aplikasi wondr by BNI.\n8. Anda akan menerima kode OTP dari Bank BNI untuk proses selanjutnya; pastikan memiliki pulsa untuk menerima kode OTP.\n9. Masa aktif OTP Tarik Tunai berlaku selama 5 menit. Masukkan kode OTP yang diterima dan klik tombol “Tekan Jika Benar.”\n10. Kode OTP berhasil divalidasi, dan mesin ATM BNI akan memproses tarik tunai.\n11. Uang tunai keluar dari mesin ATM BNI; pastikan jumlah uang yang diterima sesuai dengan transaksi yang dibuat pada aplikasi wondr by BNI."
+  },
+  {
+    "category": "Mobile Tunai",
+    "question": "Kenapa saya tidak menerima kode penarikan?",
+    "answer": "Untuk mendapatkan kode penarikan transaksi tarik tunai:\n1. Pastikan perangkat Anda terhubung dengan jaringan dan koneksi internet yang stabil.\n2. Jika menggunakan jaringan Wi-Fi, pastikan perangkat terhubung dengan Wi-Fi.\n3. Jika menggunakan jaringan seluler, pastikan paket data mencukupi dan memiliki jaringan yang stabil.\nInformasi mengenai kode yang berhasil dihasilkan bisa ditemukan di menu Notifikasi (Notifications) pada aplikasi wondr by BNI."
+  },
+  {
+    "category": "TapCash",
+    "question": "Apakah kartu yang sama dapat diaktivasi Express Top-up di beberapa akun wondr?",
+    "answer": "Tidak. Satu kartu hanya dapat diaktivasi pada satu akun wondr. Jika kartu telah diaktivasi sebagai Express Top-up pada suatu akun wondr, maka kartu tersebut tidak dapat diaktivasi di akun wondr lain."
+  },
+  {
+    "category": "TapCash",
+    "question": "Apakah terdapat batas limit pada transaksi Express Top-up?",
+    "answer": "Tidak ada batasan untuk transaksi Express Top-up. Namun, setiap kartu TapCash memiliki batas saldo maksimum Rp2.000.000, dengan total top-up maksimum Rp20.000.000 per bulan."
+  },
+  {
+    "category": "TapCash",
+    "question": "Mengapa TapCash saya tidak terbaca di wondr?",
+    "answer": "1. Pastikan smartphone kamu bisa NFC dan telah mengaktifkan NFC (jika kamu menggunakan smartphone berbasis android).\n2. Jika smartphone kamu menggunakan case/cover, coba dilepas dulu.\n3. Tempelin TapCash ke smartphone selama beberapa detik dan pastiin posisi tidak bergeser agar wondr bisa membaca kartu dengan baik."
+  },
+  {
+    "category": "TapCash",
+    "question": "Berapa banyak kartu TapCash yang bisa diaktivasi untuk transaksi Express Top-up?",
+    "answer": "Hanya 1 kartu per akun wondr yang dapat diaktivasi untuk transaksi Express Top-up.\nNamun, kartu bisa diubah kapan saja dengan cara buka menu TapCash, pilih tab Kartu Tersimpan, dan klik tombol Atur pada bagian Express. Setelah itu, klik Ganti kartu Express Top-up."
+  },
+  {
+    "category": "TapCash",
+    "question": "Apakah nominal untuk TapCash Express Top-up dapat diatur?",
+    "answer": "Nominal Express Top-up hanya dapat dipilih dari denominasi yang tersedia, seperti Rp20.000, Rp50.000, Rp100.000, Rp150.000, Rp200.000, Rp250.000, dan Rp300.000.\nNamun, kamu dapat mengubah nominal kapan saja dengan cara buka menu TapCash, pilih tab Kartu Tersimpan, dan klik tombol Atur pada bagian Express. Setelah itu, klik Atur Express Top-up."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Mengapa biaya transaksi yang dikenakan akan berbeda-beda untuk beberapa negara tujuan dan mata uang transaksi?",
+    "answer": "Biaya transaksi untuk Transfer Luar Negeri di wondr akan disesuaikan dengan negara tujuan dan mata uang yang ditransaksikan yang kamu pilih."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Berapa lama rate kurs yang berlaku pada menu Transfer Luar Negeri di wondr?",
+    "answer": "Rate kurs untuk Transfer Luar Negeri di wondr berlaku selama 15 menit."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Berapa limit bulanan untuk Transfer Luar Negeri?",
+    "answer": "Limit bulanan Transfer Luar Negeri dengan sumber dana Tabungan Rupiah adalah kumulatif USD 100.000 (setara) dari semua kanal transaksi bank BNI."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Dokumen apa yang harus saya siapkan apabila saya ingin melakukan Transfer Luar Negeri saat saya sudah mencapai limit bulanan?",
+    "answer": "Kamu tetap bisa melakukan Transfer Luar Negeri melalui cabang BNI terdekat dengan membawa dokumen berikut:\n1. Dokumen transaksi ekspor/impor\n2. Dokumen investasi langsung/portofolio\n3. Dokumen transaksi modal\n4. Kredit dari Bank kepada Penduduk untuk tujuan perdagangan dan investasi\n5. Dokumen perdagangan barang dan jasa dalam negeri dengan persetujuan pengecualian kewajiban penggunaan rupiah dari Bank Indonesia.\nUntuk informasi lebih lengkap:\ncek disini"
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Apakah saya bisa melakukan Transfer Luar Negeri dengan tabungan dollar yang saya miliki?",
+    "answer": "Kamu bisa melakukan Transfer Luar Negeri memakai sumber dana dari Tabungan IDR maupun Tabungan Dollar USD."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Apa maksud dari Estimasi dana diterima di menu Transfer Luar Negeri?",
+    "answer": "Estimasi yang dimaksud adalah perkiraan tercepat dana dari Transfer Luar Negeri kamu sampai ke penerima. Keterlambatan mungkin terjadi akibat proses verifikasi transfer luar negeri kamu di masing-masing Bank Pengirim, Bank Perantara maupun Bank Penerima."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Mengapa dana yang dikembalikan ke rekening transaksi saya atas Transfer Luar Negeri yang ditolak tidak sesuai dengan nominal saat saya transaksi?",
+    "answer": "Apabila Transfer Luar Negeri kamu ditolak oleh Bank Penerima/Bank Perantara, maka bank tersebut akan mengenakan biaya atas proses pengembalian dana (yang berlaku sesuai dengan ketentuan yang berlaku pada masing-masing bank)."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Mengapa saya mendapatkan notifikasi perubahan rate?",
+    "answer": "Transaksi kamu yang sebelumnya masih dalam tahap verifikasi mengalami perubahan rate sehingga kamu perlu konfirmasi ulang rate terbaru yang sedang berlaku untuk dapat melanjutkan Transfer Luar Negeri.\nKamu bisa konfirmasi rate terbaru yang berlaku dalam 24 jam sejak notifikasi kamu terima."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Mengapa saya mendapatkan email dari customer.inquiry@bni.co.id?",
+    "answer": "Apabila kamu mendapatkan email dari customer.inquiry@bni.co.id artinya terdapat beberapa pertanyaan dari Bank Penerima/Bank Perantara terkait Transfer Luar Negeri kamu.\nKamu perlu membalas pertanyaan yang terdapat pada email tersebut agar Transfer Luar Negeri kamu bisa dilanjutkan. Apabila kamu tidak menjawab pertanyaan dari Bank Penerima/Bank Perantara, maka transfer kamu berpotensi untuk ditolak dan akan dilakukan proses pengembalian dana."
+  },
+  {
+    "category": "Transfer Luar Negeri",
+    "question": "Bagaimana jika Transfer Luar Negeri saya ditolak oleh Bank Penerima/Bank Perantara?",
+    "answer": "Kami akan kirim notifikasi ke kamu apabila Transfer Luar Negeri kamu ditolak oleh Bank Penerima/Bank Perantara.\nKami juga akan kirimkan notifikasi lanjutan apabila dana atas transfer kamu yang belum berhasil telah dikembalikan oleh Bank Penerima/Bank Perantara yang akan langsung kami kirimkan ke rekening transaksi kamu."
+  },
+  {
+    "category": "Bayar & Beli",
+    "question": "Fitur apa saja yang bisa diatur notifikasinya?",
+    "answer": "Saat ini fitur yang bisa diatur notifikasinya hanya fitur non transaksi yaitu kategori informasi, aktivasi fitur, dan pengingat Bayar & Beli."
+  },
+  {
+    "category": "Bayar & Beli",
+    "question": "Apakah terdapat biaya transaksi saat menggunakan fitur Bayar & Beli?",
+    "answer": "Terdapat biaya transaksi berbeda-beda antar penyedia layanan. Kamu bisa cek biaya ini pada halaman konfirmasi pembayaran."
+  },
+  {
+    "category": "QRIS",
+    "question": "Bagaimana jika saya gagal melakukan transaksi QRIS dari sumber dana Kartu Kredit tetapi limit sudah terpotong?",
+    "answer": "Kamu bisa cek Riwayat Transaksi Kartu Kredit di wondr untuk memastikan apakah limit sudah terpotong atau belum. Jika sudah terpotong, segera buat laporan melalui email atau BNI Call."
+  },
+  {
+    "category": "QRIS",
+    "question": "Di mana saya bisa bertransaksi menggunakan QRIS?",
+    "answer": "1. Kamu bisa melakukan transaksi QRIS di semua merchant yang memiliki kode QR standar QRIS, baik QRIS statis maupun dinamis.\n2. QRIS Statis bisa kamu temukan di stiker, spanduk, dan bentuk lainnya, di mana kamu perlu memasukan jumlah pembayaran secara mandiri.\n3. QRIS Dinamis bisa ditemukan pada mesin EDC yang telah mengimplementasikan QRIS atau pun POS yang menghasilkan kode QR khusus yang sudah memuat jumlah transaksi."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Mengapa e-Wallet saya terputus/tidak tersambung lagi?",
+    "answer": "E-Wallet bisa otomatis terputus saat Kamu melakukan perubahan nomor handphone yang terdaftar di wondr atau nomor handphone yang terdaftar di e-Wallet kamu."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Mengapa e-wallet saya tidak dapat dihubungkan ke wondr?",
+    "answer": "E-Wallet kamu tidak bisa dihubungkan karena terdapat perbedaan nomor handphone yang terdaftar di wondr dengan nomor handphone yang terdaftar di e-Wallet kamu."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Apa itu fitur Quick Access?",
+    "answer": "Kamu bisa pakai fitur Quick Access untuk melakukan transaksi QRIS, isi ulang (top up) e-Wallet dan TapCash dari sebelum login ke wondr."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Bagaimana jika transaksi top-up e-Wallet berstatus \"In Progress\"?",
+    "answer": "Status tersebut menandakan kalau Top-up masih dalam diproses. Kamu bisa cek Riwayat Transaksi di wondr secara berkala untuk mengetahui status transaksi terbaru."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Bagaimana jika saldo rekening saya terdebet dua kali untuk transaksi Auto Top-up E-Wallet?",
+    "answer": "Kamu bisa email atau hubungi BNI Call. Tim kami akan melakukan pengecekan dan melakukan pengembalian kelebihan pembayaran ke rekening kamu."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Bagaimana jika saldo rekening saya terdebet dua kali untuk transaksi Top-up E-Wallet?",
+    "answer": "Kamu bisa email atau hubungi BNI Call. Tim kami akan melakukan pengecekan dan melakukan pengembalian kelebihan pembayaran ke rekening kamu maksimal 3 hari setelah laporan diterima."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Bagaimana jika transaksi top-up E-Wallet gagal namun saldo telah terpotong?",
+    "answer": "Kamu bisa cek kembali Riwayat Transaksi di wondr untuk memastikan apakah saldo sudah terpotong atau belum. Jika sudah terpotong, segera buat laporan melalui email atau BNI Call untuk kami tindaklanjuti."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Bagaimana jika transaksi Auto Top-up E-Wallet gagal namun saldo telah terpotong?",
+    "answer": "Kamu bisa cek kembali Riwayat Transaksi di wondr untuk memastikan apakah saldo sudah terpotong atau belum. Jika sudah terpotong, segera buat laporan melalui email atau BNI Call untuk kami tindaklanjuti."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Mengapa E-Wallet saya terputus/tidak tersambung lagi?",
+    "answer": "E-Wallet bisa otomatis terputus saat kamu melakukan perubahan nomor handphone yang terdaftar di wondr atau nomor handphone yang terdaftar di E-Wallet kamu."
+  },
+  {
+    "category": "E-Wallet",
+    "question": "Mengapa E-Wallet saya tidak dapat dihubungkan ke wondr?",
+    "answer": "E-Wallet kamu tidak bisa dihubungkan karena terdapat perbedaan nomor handphone yang terdaftar di wondr dengan nomor handphone yang terdaftar di E-Wallet kamu"
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Jika tiket tidak masuk ke email atau ada kendala lain dalam pemesanan tiket Whoosh (KCIC), siapa yang bisa dihubungi?",
+    "answer": "Kamu bisa menghubungi kontak berikut untuk memperoleh informasi dan bantuan lebih lanjut. Kamu dapat menghubungi:\na. KCIC Call Center: 150909\nb. BNI Call: 1500046 untuk selanjutnya diteruskan dan ditindaklanjuti oleh KCIC\nc. Email PT KCIC:\ncs@kcic.co.id"
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Jika tiket tidak masuk ke email atau ada kendala lain dalam pembelian tiket Java Jazz Festival, siapa yang bisa dihubungi?",
+    "answer": "Kamu bisa menghubungi kontak berikut untuk mendapatkan informasi dan bantuan lebih lanjut:\na. JFP Contact Center: 0811-8133-556\nb. Email JFP:\nhelpdesk@jfp.events\nc. BNI Call: 1500046\nd. Email BNI:\nbnicall@bni.co.id"
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Di mana saya bisa lihat tiket Java Jazz Festival setelah pembelian?",
+    "answer": "Kamu bisa buka email yang terdaftar di wondr untuk melihat tiket"
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Jika saya tidak bisa akses email, bagaimana saya bisa mendapatkan tiket KAI saya?",
+    "answer": "Kamu bisa menggunakan Kode Booking yang tertera pada Bukti Transaksi atau email dari wondr untuk mencetak tiket di stasiun atau melalui aplikasi KAI Access."
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Di mana tiket Whoosh (KCIC) bisa diperoleh setelah pembelian?",
+    "answer": "Kamu bisa buka email yang terdaftar di wondr untuk melihat detail tiket Whoosh yang sudah kamu pesan."
+  },
+  {
+    "category": "Lifestyle",
+    "question": "Di mana saya bisa lihat tiket KAI setelah pembelian?",
+    "answer": "Kamu bisa buka email yang kamu isi pada saat proses pemesanan tiket."
+  },
+  {
+    "category": "Virtual Account",
+    "question": "Bagaimana jika saya telah berhasil melakukan transaksi tetapi status VA masih belum terbayar?",
+    "answer": "Kamu bisa menunggu 1x24 jam, jika status VA belum berubah kamu bisa kirim laporan ke email atau dengan menghubungi BNI Call."
+  },
+  {
+    "category": "Virtual Account",
+    "question": "Bagaimana jika transaksi VA saya gagal tetapi saldo rekening sudah terpotong?",
+    "answer": "Kamu bisa cek kembali Riwayat Transaksi di wondr untuk memastikan apakah saldo sudah terpotong atau belum. Jika sudah terpotong, segera buat laporan melalui email atau BNI Call untuk kami tindaklanjuti."
+  },
+  {
+    "category": "Deposito",
+    "question": "Mata uang apa yang tersedia untuk membuka deposito di wondr by BNI?",
+    "answer": "Kamu bisa memilih antara Rupiah atau mata uang asing (USD dan SGD) sesuai kebutuhanmu."
+  },
+  {
+    "category": "Deposito",
+    "question": "Apakah saya dapat mengubah nama deposito yang saya miliki?",
+    "answer": "Kamu bisa mengubah nama Deposito sesuai kebutuhan."
+  },
+  {
+    "category": "Deposito",
+    "question": "Berapa lama jangka waktu deposito berjangka?",
+    "answer": "Deposito berjangka tersedia dalam berbagai pilihan jangka waktu sesuai kebutuhan kamu yaitu 1,3,6,12, atau 24 bulan."
+  },
+  {
+    "category": "Deposito",
+    "question": "Apa itu Deposito?",
+    "answer": "Deposito adalah simpanan yang dilakukan melalui channel BNI Mobile Banking yang penarikannya hanya dapat dilakukan pada waktu tertentu sesuai dengan kesepakatan antara nasabah dan bank."
+  },
+  {
+    "category": "wondr multicurrency",
+    "question": "Apa ada setoran awal dan biaya admin untuk tabungan wondr multicurrency?",
+    "answer": "Setoran awal min. Rp250.000 dengan biaya admin Rp20.000/bulan dibebankan ke rekening utama (IDR) wondr multicurrency."
+  },
+  {
+    "category": "wondr multicurrency",
+    "question": "Berapa mata uang yang bisa saya pilih saat pertama kali buka tabungan wondr multicurrency?",
+    "answer": "Kamu bisa pilih minimal 1 rekening valas sesuai kebutuhan saat pembukaan tabungan. Kalau butuh tambah mata uang lagi, kamu bisa tambah kapan pun setelah tabungan berhasil dibuka."
+  },
+  {
+    "category": "wondr multicurrency",
+    "question": "Mata uang apa aja yang tersedia di tabungan wondr multicurrency?",
+    "answer": "Tabungan wondr multicurrency mencakup 13 mata uang. Rekening IDR sebagai rekening utama dan 12 rekening valas sebagai rekening tambahan (USD, SGD, AUD, GBP, CNY, EUR, HKD, JPY, MYR, SAR, KRW, dan THB)."
+  },
+  {
+    "category": "wondr multicurrency",
+    "question": "Bagaimana saya mengetahui jika mendapatkan informasi perubahan kurs pada transaksi transfer valas?",
+    "answer": "Informasi tentang perubahan kurs konversi akan muncul setelah 15 menit."
+  },
+  {
+    "category": "Saving Account",
+    "question": "Bagaimana cara saya menggunakan rekening tabungan untuk bertransaksi jika saya adalah pengguna kartu kredit?",
+    "answer": "Kamu perlu melakukan transfer dari bank lain untuk mengaktifkan rekening dan untuk dapat langsung bertransaksi di wondr by BNI."
+  },
+  {
+    "category": "Saving Account",
+    "question": "Bagaimana cara aktivasi kartu debit yang udah saya terima?",
+    "answer": "Setelah menerima kartu fisik, kamu bisa aktivasi kartu di kantor cabang BNI terdekat atau lewat digiCS."
+  },
+  {
+    "category": "Saving Account",
+    "question": "Ketika membuka tabungan tambahan, bagaimana jika aplikasi kartu debit virtual saya gagal?",
+    "answer": "Silakan kunjungi Cabang BNI terdekat untuk mengajukan kartu debit fisik."
+  },
+  {
+    "category": "Reksa Dana",
+    "question": "Saya telah melakukan pembelian reksa dana, kenapa nilai reksa dana pada Total Aset saya belum bertambah?",
+    "answer": "Nilai reksa dana pada Total Aset kamu akan bertambah jika sudah mendapatkan status Pembelian Berhasil."
+  },
+  {
+    "category": "Reksa Dana",
+    "question": "Bagaimana jika transaksi reksa dana gagal?",
+    "answer": "Pastiin koneksi internet stabil, dan tunggu beberapa saat sebelum mencoba lagi. Jika transaksi masih gagal, hubungi kami lewat email atau BNI Call untuk bantuan lebih lanjut."
+  },
+  {
+    "category": "Reksa Dana",
+    "question": "Saya telah melakukan pencairan Reksa Dana, kenapa saldo rekening saya belum bertambah?",
+    "answer": "Saldo rekening kamu akan bertambah jika sudah mendapatkan status Penjualan Berhasil."
+  },
+  {
+    "category": "Obligasi/Sukuk",
+    "question": "Apa saja instrumen investasi yang bisa dibeli?",
+    "answer": "Kamu bisa beli Reksa Dana dan Obligasi lewat wondr. Reksa Dana adalah investasi dalam portofolio efek oleh Manajer Investasi (MI) yang mendapat izin dari Otoritas Jasa Keuangan (OJK). Sementara, Obligasi adalah surat utang jangka menengah maupun jangka panjang yang dapat diperjualbelikan."
+  },
+  {
+    "category": "Obligasi/Sukuk",
+    "question": "Berapa lama waktu pendaftarannya?",
+    "answer": "Setelah kamu konfirmasi beberapa data, hanya butuh maksimum 1 hari kerja sampai kamu bisa mulai investasi di wondr."
+  },
+  {
+    "category": "Obligasi/Sukuk",
+    "question": "Apa yang perlu disiapin untuk mulai investasi?",
+    "answer": "Untuk bisa investasi di wondr, kamu harus terdaftar sebagai Nasabah Bank BNI, belum punya SID Reksa Dana dan/atau IFUA yang tercatat di sistem Bank BNI, dan punya minimum 1 rekening tabungan aktif di BNI."
+  },
+  {
+    "category": "Obligasi/Sukuk",
+    "question": "Saya telah melakukan pembelian Obligasi, kenapa nilai Obligasi pada Total Aset saya belum bertambah?",
+    "answer": "Nilai Obligasi pada Total Aset kamu akan bertambah jika sudah mendapatkan status Pembelian Berhasil."
+  },
+  {
+    "category": "Transfer",
+    "question": "Berapa lama maksimum Jadwal Transfer yang bisa saya buat?",
+    "answer": "Kamu bisa jadwalin transfer kamu maksimum 1 tahun ke depan dari tanggal hari ini."
+  },
+  {
+    "category": "Transfer",
+    "question": "Biaya apa saja yang akan dikenakan ketika membuat Jadwal Transfer?",
+    "answer": "Kamu akan dikenakan biaya transaksi (apabila transfer ke bank selain BNI) sesuai dengan metode transfer yang kamu pilih dan biaya layanan atas penjadwalan transfer kamu sebesar Rp500."
+  },
+  {
+    "category": "Transfer",
+    "question": "Bagaimana status Jadwal Transfer yang sudah saya buat, apabila saya mengubah limit pada menu Pengaturan?",
+    "answer": "Jadwal Transfer kamu akan tetap berlangsung, apabila nominal transfernya lebih kecil dari limit harian yang kamu atur pada menu Pengaturan. Tetapi, apabila nominal jadwal transfer kamu lebih besar dari limit harian yang kamu atur pada menu pengaturan, maka Transfer Terjadwal akan dibatalkan oleh sistem kami setelah kamu setuju untuk ubah limit transaksi harian kamu."
+  },
+  {
+    "category": "Transfer",
+    "question": "Apakah saya akan diingatkan setiap ada Transfer Terjadwal yang akan dijalankan?",
+    "answer": "Kami akan menampilkan Transfer Terjadwal yang akan dijalankan sehari sebelumnya di halaman depan pada tab Transaksi."
+  },
+  {
+    "category": "Transfer",
+    "question": "Bagaimana jika status transfer saya adalah Transfer belum berhasil?",
+    "answer": "Kalau kamu dapat status Transfer belum berhasil, dana akan dikembalikan ke rekening kamu maksimal H+1 dari waktu transaksi. Kamu bisa cek secara berkala mengenai pengembalian dana di bagian Info Rekening ya."
+  },
+  {
+    "category": "Transfer",
+    "question": "Bagaimana jika status transfer saya adalah Transfer belum berhasil tetapi saldo di rekening sudah berkurang?",
+    "answer": "Kami akan melakukan pengecekan ke bank tujuan transfer kamu pada H+1 (atau hari kerja terdekat). Apabila bank tujuan transfer kamu sudah konfirmasi bahwa status transfernya belum berhasil, maka kami akan langsung kembalikan dana ke rekening kamu."
+  },
+  {
+    "category": "Transfer",
+    "question": "Apa yang harus dilakukan kalau status transfer saya adalah Transfer berhasil dan saldo sudah berkurang, tetapi penerima belum menerima dananya?",
+    "answer": "Kami akan melakukan pengecekan ke bank tujuan transfer kamu pada H+1 (atau hari kerja terdekat). Apabila bank tujuan transfer kamu sudah konfirmasi bahwa status transfernya belum berhasil, maka kami akan langsung kembalikan dana ke rekening kamu."
+  },
+  {
+    "category": "Transfer",
+    "question": "Berapa maksimum biaya transaksi yang mungkin dikenakan kepada saya untuk Grup Transfer?",
+    "answer": "Biaya transaksi hanya akan dikenakan apabila kamu transfer ke bank selain BNI. Transfer akan menggunakan metode BIFAST, di mana maksimal biaya transaksi adalah Rp12.500 (untuk transfer ke 5 tujuan bank selain BNI)."
+  },
+  {
+    "category": "Transfer",
+    "question": "Apa fungsi dari daftar penerima Tersimpan di halaman transfer?",
+    "answer": "Daftar penerima Tersimpan adalah tujuan transfer yang kamu simpan dari transaksi yang sudah kamu lakukan sebelumnya. Dengan begitu, kamu dapat melakukan transfer ke penerima yang sama secara langsung dengan memilih namanya di daftar ini."
+  },
+  {
+    "category": "Transfer",
+    "question": "Apa fungsi dari menu daftar penerima Terakhir di halaman transfer?",
+    "answer": "Daftar penerima Terakhir adalah tujuan transfer yang terakhir kamu transaksikan. Kamu bisa lihat maksimal 20 penerima transfer dalam kurun waktu 30 hari ke belakang."
+  },
+  {
+    "category": "Umum",
+    "question": "Bagaimana cara melakukan download E-billing?",
+    "answer": "Kamu dapat klik tab bulan pada bagian transaksi di halaman info kartu kredit pada cycle yang ingin di download E-billingnya."
+  },
+  {
+    "category": "Umum",
+    "question": "Apakah saya tetap menjadi nasabah BNI apabila saya melakukan penutupan akun wondr?",
+    "answer": "Ya, dengan melakukan penutupan akun wondr, kamu tetap menjadi nasabah BNI dan seluruh produk BNI yang kamu miliki seperti rekening, kartu debit, dan kartu kredit masih aktif dan dapat digunakan."
+  },
+  {
+    "category": "Umum",
+    "question": "Apa itu Pembukaan Rekening CASA?",
+    "answer": "Pembukaan rekening (CASA) adalah proses di mana seseorang atau entitas membuka rekening baru di bank atau lembaga keuangan lainnya, ketika mereka sudah memiliki satu atau lebih rekening yang ada. Rekening tambahan dapat digunakan untuk berbagai tujuan, seperti memisahkan dana untuk tujuan spesifik, mengelola keuangan secara lebih terorganisir, atau untuk keperluan bisnis. Biasanya, proses pembukaan rekening tambahan melibatkan pengisian formulir aplikasi, verifikasi identitas, dan mungkin juga pembayaran biaya atau minimum deposit tertentu."
+  },
+  {
+    "category": "Umum",
+    "question": "Berapa banyak rekening/nomor HP/email yang bisa disimpan di nama penerima yang sama?",
+    "answer": "Kamu bisa menyimpan sampai dengan 5 detail tujuan transfer ke dalam nama penerima yang sama."
+  },
+  {
+    "category": "Umum",
+    "question": "Berapa Nomor HP atau Email yang bisa saya hubungkan sebagai Proxy?",
+    "answer": "Kamu bisa menghubungkan 1 (satu) nomor HP dan 1 (satu) email sebagai Proxy nomor rekening BNI kamu."
+  },
+  {
+    "category": "Umum",
+    "question": "Mengapa ketika ingin membuka blokir kartu, muncul Kartu kamu lagi kami periksa. Tunggu dulu ya.",
+    "answer": "Jika kamu mendapatkan informasi ini, kami sedang melakukan pengecekan terhadap akun kamu."
+  },
+  {
+    "category": "Umum",
+    "question": "Apa itu list Semua transaksi pada Halaman Info Rekening?",
+    "answer": "List Semua transaksi adalah List Mutasi dari Rekening tersebut yang telah digunakan menjadi Sumber Dana pada semua channel BNI."
+  },
+  {
+    "category": "Umum",
+    "question": "Adakah Risiko dan Biaya dalam proses registrasi atau aktivasi wondr by BNI?",
+    "answer": "1. Untuk menghindari kegagalan dalam proses registrasi dan aktivasi wondr by BNI, terdapat beberapa hal yang perlu kamu pastikan, antara lain:\nData yang diinput sesuai dengan sumber data yang valid\nFoto dokumen jelas (tidak buram, tidak terpotong, dan tidak rusak)\nFoto wajah sesuai dengan yang tercantum di KTP\nKoneksi internet dalam kondisi stabil\nEmail dan nomor handphone sesuai dengan data yang terdaftar di BNI\n2. Untuk menggunakan wondr by BNI, kamu dapat melakukan registrasi dan aktivasi tanpa dikenakan biaya, kecuali biaya yang mungkin timbul dari penggunaan paket data internet di handphone masing-masing untuk mengakses aplikasi tersebut.\nSelain melalui cabang terdekat, proses registrasi dan aktivasi wondr by BNI juga dapat dilakukan langsung melalui smartphone kamu setelah mengunduh aplikasi wondr by BNI."
+  },
+  {
+    "category": "Umum",
+    "question": "Apa perbedaan password dan PIN wondr?",
+    "answer": "a. Password adalah kata sandi untuk akses aplikasi wondr.\nb. PIN wondr adalah kode otorisasi untuk transaksi finansial atau aktivitas non finansial melalui wondr."
+  },
+  {
+    "category": "Life Goals",
+    "question": "Apakah saya mendapatkan bunga?",
+    "answer": "Ya, kamu akan mendapatkan bunga 2,70% per tahun"
+  },
+  {
+    "category": "Life Goals",
+    "question": "Apakah saya bisa melakukan pencairan sebelum tanggal jatuh tempo?",
+    "answer": "Kamu bisa melakukan pencairan sebelum jatuh tempo dengan dikenakan biaya sebesar 1% dari saldo terkumpul atau minimum Rp100.000."
+  },
+  {
+    "category": "Life Goals",
+    "question": "Berapa banyak Life Goals yang bisa dibuat?",
+    "answer": "Tidak ada batasan jumlah Life Goals yang bisa kamu buat."
+  },
+  {
+    "category": "Aktivasi",
+    "question": "Apakah saya bisa mendaftarkan nomor HP atau email saya sebagai Proxy di BNI dan bank lain?",
+    "answer": "Tidak. Satu Nomor HP atau email hanya dapat didaftarkan di satu bank saja."
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Mengapa Transaksi PIN-less saya tidak aktif padahal saya sudah mengaktifkan Transaksi PIN-less sebelumnya?",
+    "answer": "Transaksi PIN-less akan dinonaktifkan secara otomatis kalau kamu melakukan hal-hal berikut:\nKamu baru saja melakukan aktivasi ulang atau ganti perangkat wondr.\nTerdapat Syarat dan Ketentuan baru untuk Transaksi PIN-less yang harus kamu setujui."
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Bagaimana jika saya menonaktifkan tombol push notification dan email?",
+    "answer": "Jika kamu menonaktifkan semua toggle untuk kategori tertentu, notifikasi terkait aktivitas kategori yang dinonaktifkan tidak akan dikirimkan."
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Apa fungsi notifikasi transaksi pada Pengaturan Rekening?",
+    "answer": "Notifikasi transaksi adalah informasi berupa push notifikasi saat kamu melakukan transaksi atau menerima transaksi di rekening tersebut dengan batasan nominal transaksi tertentu."
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Apakah saya bisa mengembalikan akun wondr saya yang telah dihapus?",
+    "answer": "Kamu tidak bisa mengembalikan akun wondr kamu apabila akun wondr sudah dihapus. Tetapi, kamu bisa registrasi ulang untuk kembali menggunakan wondr."
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Bagaimana cara melakukan penutupan akun wondr saya?",
+    "answer": "Kamu bisa menutup akun wondr dengan menggunakan fitur Penutupan akun wondr di menu Bantuan & Informasi"
+  },
+  {
+    "category": "Setelan Akun",
+    "question": "Apa fungsi Sumber dana utama pada Pengaturan Rekening?",
+    "answer": "Sumber dana utama adalah Rekening yang paling sering kamu gunain untuk transaksi. Jika kamu memilih untuk mengaktifkan fitur ini maka Rekening tersebut akan terpilih secara default pada saat kamu akan melakukan transaksi."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Apa fungsi Sumber dana utama pada Pengaturan Kartu Kredit?",
+    "answer": "Sumber dana utama adalah sumber dana yang paling sering kamu gunain untuk transaksi. Jika kamu memilih untuk mengaktifkan fitur ini maka Kartu Kredit tersebut akan terpilih secara default pada saat kamu akan melakukan transaksi. Saat ini, fitur yang dapat menggunakan sumber dana Kartu Kredit adalah QRIS dan Bayar & Beli Listrik"
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Bagaimana cara melihat daftar cicilan kartu kredit BNI saya?",
+    "answer": "Untuk melihat daftar cicilan yang telah berhasil, kamu dapat mengklik ‘Selengkapnya’ pada halaman 'Info kartu kredit' dan memilih tab cicilan."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Bagaimana cara mengaktifkan perlindungan kartu kredit?",
+    "answer": "Saat ini kamu dapat melakukan aktivasi perlindungan kartu kredit melalui BNI Call."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Di mana saya bisa akses menu perlindungan kartu kredit?",
+    "answer": "You only need to access the “Credit Card Info” page, either from the “All Accounts” list or the main page. Then, click the settings button and select the “Card Protection” menu."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Apa saja ketentuan khusus untuk mendaftar perlindungan kartu?",
+    "answer": "Saat pendaftaran, usia pemegang kartu harus berada dalam rentang 20 hingga 64 tahun (berdasarkan tanggal lahir)."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Apakah saya bisa mendaftarkan asuransi BLife Digi Perisai Plus untuk kartu kredit tambahan?",
+    "answer": "Pendaftaran perlindungan asuransi BLife Digi Perisai Plus tidak berlaku untuk kartu kredit tambahan."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Jenis kartu kredit apa saja yang dapat mendaftar untuk perlindungan kartu?",
+    "answer": "Fitur ini tersedia untuk semua pemegang kartu kredit (VISA, Mastercard, JCB, American Express, Co-brand), kecuali kartu kredit Corporate, Private Label, dan Kartu Kredit Indonesia."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Apa itu perlindungan kartu kredit?",
+    "answer": "Perlindungan kartu kredit merupakan fitur perlindungan asuransi yang memberikan perlindungan terhadap pembayaran tagihan kamu dari berbagai risiko."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Apa fungsi notifikasi transaksi pada Pengaturan Kartu Kredit?",
+    "answer": "Notifikasi transaksi adalah Fitur yang memberikan informasi berupa push notifikasi yang akan dikirimkan ke aplikasi wondr saat kamu melakukan transaksi atau membayar tagihan pakai kartu tersebut melalui channel lain selain wondr."
+  },
+  {
+    "category": "Kartu Kredit",
+    "question": "Bagaimana jika berhasil registrasi wondr, Kartu Kredit yang saya miliki tidak muncul di aplikasi?",
+    "answer": "Kamu perlu melakukan proses pengkinian data dengan menghubungi kami lewat email atau BNI Call."
+  },
+  {
+    "category": "Referral",
+    "question": "Kapan saya akan menerima hadiah dari program \"Ajak teman kamu\"?",
+    "answer": "Hadiah akan kamu terima setelah program Ajak teman kamu selesai dan jika kamu dianggap memenuhi syarat dan ketentuan yang berlaku."
+  },
+  {
+    "category": "Referral",
+    "question": "Siapa saja yang dapat mengikuti program \"Ajak teman kamu\" di wondr?",
+    "answer": "Semua pengguna wondr, kecuali karyawan BNI, dapat mengikuti program ini."
+  },
+  {
+    "category": "Referral",
+    "question": "Apa arti status \"Penjelajah\" untuk teman yang berhasil saya ajak?",
+    "answer": "Status \"Penjelajah\" artinya teman kamu baru aja menjadi nasabah BNI dan bergabung di wondr."
+  },
+  {
+    "category": "Referral",
+    "question": "Apa arti status \"Petualang\" untuk teman yang berhasil saya ajak?",
+    "answer": "Status \"Petualang\" artinya teman kamu udah jadi nasabah BNI, tapi baru bergabung di wondr."
+  },
+  {
+    "category": "Referral",
+    "question": "Apa itu Referee?",
+    "answer": "Referee adalah calon pengguna wondr yang diajak untuk registrasi wondr dan yang melakukan scan QR Referral milik pengguna wondr."
+  },
+  {
+    "category": "Referral",
+    "question": "Apa itu Referrer?",
+    "answer": "Referrer adalah orang yang mengajak orang lain untuk registrasi wondr menggunakan QR unik."
+  },
+  {
+    "category": "Referral",
+    "question": "Apa itu Program \"Ajak teman kamu\" di wondr?",
+    "answer": "Program \"Ajak teman kamu\" adalah program untuk mengajak keluarga, teman, dan orang terdekat kamu untuk registrasi wondr menggunakan QR Referral unik milik kamu."
+  },
+  {
+    "category": "Referral",
+    "question": "Bagaimana cara saya menggunakan QR Ajak teman kamu?",
+    "answer": "1. Pastiin kamu udah registrasi wondr dan memiliki rekening tabungan.\n2. Buka aplikasi wondr, pilih menu Ajak Teman Kamu di bagian Pengaturan & Profil.\n3. Gunakan QR Referral unik milikmu untuk mengajak orang terdekat menggunakan wondr.\n4. Temanmu (Referee) harus scan QR Referral unik kamu menggunakan kamera smartphone miliknya dan melakukan registrasi wondr."
+  },
+  {
+    "category": "Ubah Cicilan",
+    "question": "Berapa lama waktu yang dibutuhkan untuk proses pengajuan pengubahan transaksi atau tagihan meniadi cicilan?",
+    "answer": "Proses pengajuan Ubah Cicilan memakan waktu hingga 1 hari kerja, setelah itu pengguna akan menerima notifikasi apakah pengajuan berhasil atau belum berhasil."
+  },
+  {
+    "category": "Ubah Cicilan",
+    "question": "Bagaimana cara mengubah transaksi atau tagihan meniadi cicilan di wondr by BNI?",
+    "answer": "Kamu dapat mengubah transaksi dan atau tagihan menjadi cicilan melalui menu Ubah Cicilan di halaman info kart kredit."
+  },
+  {
+    "category": "Ubah Cicilan",
+    "question": "Apakah saya akan menerima notifikasi jika pengajuan Ubah Cicilan berhasil?",
+    "answer": "Ya, kamu akan menerima notifikasi melalui push notification dan email jika pengajuan Ubah Cicilan berhasil."
+  },
+  {
+    "category": "Ubah Cicilan",
+    "question": "Apa itu fitur Ubah Cicilan?",
+    "answer": "Fitur pada wondr by BNI memungkinkan pengguna untuk mengubah transaksi dan atau tagihan kartu kredit menjadi cicilan."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Kartu kredit apa saja yang memenuhi syarat untuk pencairan Card to Cash?",
+    "answer": "Kartu kredit yang dapat digunakan adalah yang memenuhi syarat dan ketentuan yang berlaku."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Berapa jumlah maksimum dana yang bisa dicairkan melalui Card to Cash?",
+    "answer": "Jumlah dana yang dapat dicairkan mulai dari Rp1.000.000 (satu juta rupiah) hingga 50% dari sisa limit kredit yang tersedia pada kartu."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Di mana saya bisa mengecek status pengajuan Card to Cash?",
+    "answer": "Kamu dapat melihat status pengajuan dengan klik fitur Card to Cash di halaman info kartu kredit."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Di mana saya bisa mengakses fitur Card to Cash?",
+    "answer": "Kamu dapat mengakses fitur Card to Cash melalui halaman info kartu kredit."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Apakah saya bisa melunasi cicilan lebih awal?",
+    "answer": "Pemegang Kartu Kredit BI dapat melunasi kewajiban cicilan lebih awal sebelum periode cicilan berakhir dengan mengajukan permohonan melalui layanan BNI Call di 1500046."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Bisakah saya mengajukan pencairan Card to Cash lebih dari satu kali?",
+    "answer": "Kamu dapat melakukan pencairan lagi jika kartu kredit yang kamu miliki mash memenuhi kriteria sesuai syarat dan ketentuan yang berlaku."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Apakah saya bisa mencairkan Card to Cash dengan kartu kredit tambahan?",
+    "answer": "Pencairan Card to Cash tidak dapat dilakukan untuk kartu kredit tambahan."
+  },
+  {
+    "category": "Card to Cash",
+    "question": "Apa itu Card to Cash?",
+    "answer": "Card to Cash adalah fitur yang memungkinkan para nasabah terpilih untuk memanfaatkan sisa limit kart kredit yang tersedia dengan cara memindahkan limit tersebut ke rekening bank milk pemegang kartu. Selain itu, Card to Cash memungkinkan nasabah untuk melakukan pembayaran cicilan dengan bunga ringan."
+  }
+]

@@ -1,0 +1,1126 @@
+{
+  "document": "Syarat dan Ketentuan wondr by BNI",
+  "source_url": "https://wondr.bni.co.id/info/terms-conditions",
+  "sections": [
+    {
+      "section_number": "1",
+      "title": "DEFINISI",
+      "clauses": [
+        {
+          "code": "1.a",
+          "level": "a",
+          "text": "Aplikasi wondr by BNI adalah fasilitas elektronik channel yang dimiliki, dikembangkan, dan dikelola oleh Bank serta dapat diakses dan digunakan oleh Pengguna untuk melakukan Transaksi Finansial dan/atau Transaksi Non Finansial melalui Smartphone ."
+        },
+        {
+          "code": "1.b",
+          "level": "b",
+          "text": "Bank adalah PT Bank Negara Indonesia (Persero) Tbk yang meliputi kantor pusat dan kantor cabang serta kantor lainnya yang merupakan bagian yang tidak terpisahkan dari PT Bank Negara Indonesia (Persero) Tbk."
+        },
+        {
+          "code": "1.c",
+          "level": "c",
+          "text": "BNI Call Officer (BCO) adalah petugas-petugas dari BNI Customer Experience Center sebagai penerima komplain yang disampaikan oleh Pengguna."
+        },
+        {
+          "code": "1.d",
+          "level": "d",
+          "text": "BNI Call adalah layanan 24 jam yang dapat diakses Nasabah dengan mudah dalam berinteraksi dengan Bank melalui saluran telepon 1500046."
+        },
+        {
+          "code": "1.e",
+          "level": "e",
+          "text": "BNI Deposito adalah simpanan berjangka yang dibuka melalui Aplikasi wondr by BNI dan pencairannya hanya dapat dilakukan pada waktu tertentu sesuai dengan kesepakatan antara Pengguna dan Bank."
+        },
+        {
+          "code": "1.f",
+          "level": "f",
+          "text": "Taplus/Taplus Bisnis/Taplus Muda/Taplus Diaspora/Emerald Saving/BNI Dollar USD/BNI Dollar SGD/ BNI Dollar AUD (“Rekening Tabungan”) adalah produk tabungan yang dibuka melalui Aplikasi wondr by BNI yang penarikannya dapat dilakukan setiap saat menurut syarat tertentu yang disepakati antara Pengguna dengan Bank."
+        },
+        {
+          "code": "1.g",
+          "level": "g",
+          "text": "Taplus Digital adalah produk tabungan yang dibuka melalui Aplikasi wondr by BNI yang penarikannya dapat dilakukan setiap saat menurut syarat tertentu yang disepakati antara Nasabah dengan BNI."
+        },
+        {
+          "code": "1.h",
+          "level": "h",
+          "text": "Bunga BNI Deposito adalah bunga yang akan dibayarkan dengan pilihan ditransfer ke Rekening Afiliasi atau kapitalisasi (menambah pokok simpanan BNI Deposito) sampai dengan tanggal jatuh tempo untuk BNI Deposito."
+        },
+        {
+          "code": "1.i",
+          "level": "i",
+          "text": "Data Biometrik adalah yaitu data yang berkaitan dengan fisik, fisiologis, atau karakteristik perilaku individu yang memungkinkan identifikasi unik terhadap individu, termasuk, tetapi tidak terbatas pada, gambar wajah, sidik jari, dan rekaman pembicaraan."
+        },
+        {
+          "code": "1.j",
+          "level": "j",
+          "text": "Data Pribadi adalah data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik atau non elektronik."
+        },
+        {
+          "code": "1.k",
+          "level": "k",
+          "text": "Kartu Debit BNI adalah kartu yang diterbitkan oleh Bank berdasarkan lisensi dari principal yang dapat dipergunakan sebagai alat tarik tunai dan melakukan transaksi belanja di jaringan merchant dengan pembebanan langsung ke rekening tabungan atau giro Pengguna sesuai nilai transaksinya."
+        },
+        {
+          "code": "1.l",
+          "level": "l",
+          "text": "Pemberitahuan Privasi adalah bentuk keterbukaan informasi dari Bank yang menjelaskan kepada Nasabah sehubungan dengan Bank memperoleh dan mengumpulkan, mengolah, memproses, menganalisis, menggunakan, menyimpan, memperbaiki dan memperbarui, menampilkan, mengumumkan, mentransfer, menyebarluaskan, mengungkapkan, menghapuskan dan/atau memusnahkan Data Pribadi Nasabah, serta hak-hak Nasabah selaku subjek Data Pribadi berdasarkan ketentuan Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi beserta perubahan dan peraturan pelaksanaannya dan peraturan perundang-undangan lain yang berlaku dan relevan."
+        },
+        {
+          "code": "1.m",
+          "level": "m",
+          "text": "Kode One Time Password (selanjutnya disebut “Kode OTP”) adalah kode otentikasi sekali pakai yang dikirimkan melalui SMS/aplikasi WhatsApp kepada Pengguna untuk validasi proses Registrasi Aplikasi wondr by BNI / Reaktivasi Aplikasi wondr by BNI. Kode OTP dikirim oleh sistem Aplikasi wondr by BNI ke nomor Smartphone Pengguna yang telah terdaftar/tercatat pada sistem Bank pada saat Pengguna melakukan Registrasi Aplikasi wondr by BNI / Reaktivasi Aplikasi wondr by BNI."
+        },
+        {
+          "code": "1.n",
+          "level": "n",
+          "text": "Media Resmi Bank adalah sarana penyampaian informasi resmi dari Bank kepada Nasabah antara lain website /SMS/WhatsApp/Surat Elektronik/BNI Call/surat/publikasi resmi di media massa."
+        },
+        {
+          "code": "1.o",
+          "level": "o",
+          "text": "PIN wondr adalah kode untuk otorisasi transaksi, terdiri dari 6 (enam) karakter angka yang bersifat rahasia (hanya boleh diketahui oleh Pengguna yang sah), yang dibuat sendiri oleh Nasabah pada saat melakukan Registrasi atau Reaktivasi, dan dapat diubah sewaktu-waktu oleh Nasabah."
+        },
+        {
+          "code": "1.p",
+          "level": "p",
+          "text": "Nasabah adalah orang perorangan pemilik/pengguna produk perbankan yang disediakan oleh Bank, seperti dan tidak terbatas pada produk tabungan, giro perorangan, deposito dan/atau kartu kredit."
+        },
+        {
+          "code": "1.q",
+          "level": "q",
+          "text": "Nasabah Pengguna Aplikasi wondr by BNI (selanjutnya disebut “Pengguna”) adalah Nasabah yang telah terdaftar sebagai pengguna Aplikasi wondr by BNI."
+        },
+        {
+          "code": "1.r",
+          "level": "r",
+          "text": "Notifikasi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi adalah pemberitahuan bahwa proses Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi berhasil dilakukan oleh Pengguna."
+        },
+        {
+          "code": "1.s",
+          "level": "s",
+          "text": "Password Login adalah kata sandi untuk akses atau login Aplikasi wondr by BNI, terdiri dari 6-12 karakter kombinasi huruf besar dan kecil, angka serta karakter spesial (kecuali ; - + ‘ \\ () = ><@ dan spasi) yang bersifat rahasia, hanya boleh diketahui oleh Pengguna yang sah, yang dibuat sendiri oleh Pengguna di Aplikasi wondr by BNI dan dapat diubah sewaktu-waktu oleh Pengguna melalui Aplikasi wondr by BNI."
+        },
+        {
+          "code": "1.t",
+          "level": "t",
+          "text": "Pencairan BNI Deposito adalah proses pemindahan dana dari rekening BNI Deposito ke Rekening Afiliasi melalui Aplikasi wondr by BNI pada saat tanggal jatuh tempo maupun sebelum tanggal jatuh tempo."
+        },
+        {
+          "code": "1.u",
+          "level": "u",
+          "text": "Penempatan Dana BNI Deposito adalah proses penempatan dana dari Rekening Sumber Dana ke rekening BNI Deposito melalui Aplikasi wondr by BNI."
+        },
+        {
+          "code": "1.v",
+          "level": "v",
+          "text": "Quick Response Code Indonesian Standard (QRIS) adalah Standard QR Code pembayaran yang ditetapkan oleh Bank Indonesia untuk digunakan dalam memfasilitasi pembayaran di Indonesia."
+        },
+        {
+          "code": "1.w",
+          "level": "w",
+          "text": "Reaktivasi adalah proses pengaktifan kembali akun Pengguna agar dapat menggunakan Aplikasi wondr by BNI beserta seluruh transaksi dan/atau fitur yang terdapat di Aplikasi wondr by BNI, dengan proses verifikasi ulang 2 (dua) faktor autentikasi Pengguna terhadap 1 (satu) Smartphone ."
+        },
+        {
+          "code": "1.x",
+          "level": "x",
+          "text": "Registrasi adalah proses pembuatan akun Pengguna di 1 (satu) Smartphone yang telah berhasil melakukan instalasi Aplikasi wondr by BNI dan verifikasi 2 (dua) faktor autentikasi."
+        },
+        {
+          "code": "1.y",
+          "level": "y",
+          "text": "Rekening adalah catatan pembukuan Bank atas produk simpanan yang dibuka oleh Pengguna pada Bank melalui Aplikasi wondr by BNI, berupa tabungan dan/atau Deposito, baik dalam Rupiah maupun mata uang asing, atas dasar permohonan pembukaan rekening dari Pengguna, menurut tata cara dan persyaratan yang tercantum dalam Syarat dan Ketentuan ini."
+        },
+        {
+          "code": "1.z",
+          "level": "z",
+          "text": "Rekening Afiliasi adalah rekening simpanan yang ada pada Bank termasuk namun tidak terbatas pada BNI Taplus/BNI Taplus Bisnis/BNI Giro/BNI Emerald Saving yang digunakan Nasabah untuk menampung pembayaran/penerimaan dana seperti penerimaan Bunga BNI Deposito dan pencairan BNI Deposito."
+        },
+        {
+          "code": "1.aa",
+          "level": "aa",
+          "text": "Rekening Sumber Dana adalah rekening yang terhubung dengan Aplikasi wondr by BNI yang digunakan sebagai rekening pendebetan setoran awal, termasuk namun tidak terbatas pada BNI Taplus/BNI Taplus Bisnis/BNI Giro Perorangan/ BNI Taplus Muda/BNI Taplus Diaspora."
+        },
+        {
+          "code": "1.bb",
+          "level": "bb",
+          "text": "Rekening Sumber Dana BNI Deposito adalah rekening BNI Taplus/BNI Taplus Bisnis/BNI Giro/BNI Emerald Saving/BNI Dollar USD/BNI Dollar SGD/BNI Dollar AUD yang digunakan Pengguna sebagai sumber dana untuk Penempatan Dana BNI Deposito."
+        },
+        {
+          "code": "1.cc",
+          "level": "cc",
+          "text": "Smartphone adalah handphone dengan sistem operasi Android dan iOS yang memiliki kemampuan tingkat tinggi, yang bekerja menggunakan seluruh perangkat lunak sistem operasi yang menyediakan hubungan standar dan mendasar bagi pengembang aplikasi."
+        },
+        {
+          "code": "1.dd",
+          "level": "dd",
+          "text": "Service Level Agreement Penyelesaian Komplain (selanjutnya disebut “SLA Penyelesaian Komplain”) adalah acuan dasar penyelesaian komplain di bidang perbankan yang telah ditentukan pihak regulator (dhi. Bank Indonesia dan Otoritas Jasa Keuangan)."
+        },
+        {
+          "code": "1.ee",
+          "level": "ee",
+          "text": "Transaksi Finansial adalah jenis transaksi yang mengakibatkan terjadinya mutasi secara finansial (debet atau kredit) terhadap rekening."
+        },
+        {
+          "code": "1.ff",
+          "level": "ff",
+          "text": "Transaksi Non Finansial adalah jenis transaksi yang tidak mengakibatkan terjadinya mutasi secara finansial terhadap rekening."
+        },
+        {
+          "code": "1.gg",
+          "level": "gg",
+          "text": "Transaksi PIN-Less adalah fitur yang disediakan Bank untuk memudahkan Pengguna melakukan transaksi tertentu tanpa perlu memasukan PIN wondr."
+        },
+        {
+          "code": "1.hh",
+          "level": "hh",
+          "text": "Transaksi Quick Access adalah fitur yang disediakan Bank untuk memudahkan Pengguna dalam melakukan transaksi pembayaran dan/atau pembelian tanpa melakukan login di Aplikasi wondr by BNI."
+        },
+        {
+          "code": "1.ii",
+          "level": "ii",
+          "text": "Transfer Terjadwal adalah proses pengiriman uang ( transfer ) yang dijalankan secara otomatis oleh system pada hari/tanggal tertentu sebesar nominal yang ditetapkan oleh Nasabah saat pendaftaran transfer terjadwal."
+        }
+      ]
+    },
+    {
+      "section_number": "2",
+      "title": "KETENTUAN UMUM KEANGGOTAAN",
+      "clauses": [
+        {
+          "code": "2.a",
+          "level": "a",
+          "text": "Untuk dapat menggunakan Aplikasi wondr by BNI, calon Pengguna harus memenuhi persyaratan Pengguna."
+        },
+        {
+          "code": "2.b",
+          "level": "b",
+          "text": "Pengguna wajib melakukan pengkinian data ke Bank setiap kali ada perubahan Data Pribadi khususnya perubahan alamat e-mail dan/atau nomor Smartphone yang aktif digunakan."
+        },
+        {
+          "code": "2.c",
+          "level": "c",
+          "text": "Segala kerugian yang timbul akibat tidak dilakukannya pengkinian data oleh Pengguna kepada Bank, khususnya perubahan alamat e-mail dan/atau nomor Smartphone aktif Pengguna, menjadi tanggung jawab Pengguna sepenuhnya."
+        }
+      ]
+    },
+    {
+      "section_number": "3",
+      "title": "PERSYARATAN PENGGUNA",
+      "clauses": [
+        {
+          "code": "3.a",
+          "level": "a",
+          "text": "Pengguna wajib memiliki rekening tabungan perorangan (BNI Taplus, BNI Taplus Bisnis, BNI Taplus Muda, BNI Taplus Anak, BNI Taplus Anggota/Pegawai, BNI Emerald, Giro Perorangan (Rupiah)), dan/atau kartu kredit yang terdaftar pada Bank."
+        },
+        {
+          "code": "3.b",
+          "level": "b",
+          "text": "Pengguna wajib memiliki nomor Smartphone dan alamat email pribadi yang masih aktif digunakan oleh Pengguna."
+        },
+        {
+          "code": "3.c",
+          "level": "c",
+          "text": "Pengguna telah membaca, memahami, dan menyetujui Syarat dan Ketentuan ini."
+        }
+      ]
+    },
+    {
+      "section_number": "4",
+      "title": "REGISTRASI APLIKASI WONDR BY BNI",
+      "clauses": [
+        {
+          "code": "4.a",
+          "level": "a",
+          "text": "Registrasi Aplikasi wondr by BNI hanya dapat dilakukan melalui Aplikasi wondr by BNI yang telah diunduh pada Smartphone Nasabah, untuk itu Nasabah wajib terlebih dahulu mengunduh Aplikasi wondr by BNI pada Smartphone miliknya."
+        },
+        {
+          "code": "4.b",
+          "level": "b",
+          "text": "Nasabah wajib menggunakan aplikasi resmi dari Aplikasi wondr by BNI yang disediakan oleh Bank pada Google Play dan Appstore."
+        },
+        {
+          "code": "4.c",
+          "level": "c",
+          "text": "Nasabah hanya dapat meregistrasikan 1 (satu) user pada Aplikasi wondr by BNI, dengan 1 (satu) nomor Smartphone yang terdaftar pada sistem pada 1 (satu) device Smartphone ."
+        },
+        {
+          "code": "4.d",
+          "level": "d",
+          "text": "Registrasi Aplikasi wondr by BNI wajib dilakukan sendiri oleh Nasabah yang bersangkutan (tidak boleh diwakilkan) dengan menggunakan Smartphone pribadi milik Nasabah dan dilarang untuk mendaftarkan nomor Smartphone milik orang lain dengan alasan apapun. Nasabah wajib mengisikan informasi sesuai persyaratan keanggotaan Aplikasi wondr by BNI. Adapun data yang wajib diisi oleh Nasabah yaitu:",
+          "subclauses": [
+            {
+              "code": "4.d.1",
+              "level": "1",
+              "text": "Nomor Smartphone Nasabah"
+            },
+            {
+              "code": "4.d.2",
+              "level": "2",
+              "text": "Nomor Induk Kependudukan dalam Kartu Tanda Penduduk Nasabah"
+            },
+            {
+              "code": "4.d.3",
+              "level": "3",
+              "text": "Nomor Kartu Debit dan PIN Kartu Debit atau Nomor Kartu Kredit dan PIN Kartu Kredit (Opsional)"
+            },
+            {
+              "code": "4.d.4",
+              "level": "4",
+              "text": "PIN wondr"
+            },
+            {
+              "code": "4.d.5",
+              "level": "5",
+              "text": "Tanggal lahir"
+            },
+            {
+              "code": "4.d.6",
+              "level": "6",
+              "text": "Password Aplikasi wondr by BNI"
+            },
+            {
+              "code": "4.d.7",
+              "level": "7",
+              "text": "Email nasabah"
+            }
+          ]
+        },
+        {
+          "code": "4.e",
+          "level": "e",
+          "text": "Registrasi Aplikasi wondr by BNI hanya dapat dilakukan secara mandiri oleh Nasabah melalui Aplikasi wondr by BNI yang terdapat di Smartphone pribadi milik Nasabah."
+        },
+        {
+          "code": "4.f",
+          "level": "f",
+          "text": "Bank akan melakukan pemrosesan Data Pribadi Nasabah/Pengguna sesuai dengan peraturan perundang-undangan yang berlaku dan berdasarkan persetujuan dari Nasabah/Pengguna terhadap Syarat dan Ketentuan serta Pemberitahuan Privasi yang merupakan satu kesatuan dan bagian yang tidak terpisahkan dari Syarat dan Ketentuan ini."
+        },
+        {
+          "code": "4.g",
+          "level": "g",
+          "text": "Risiko yang timbul akibat kelalaian dan/atau penyalahgunaan data oleh Nasabah dalam pelaksanaan Registrasi Aplikasi wondr by BNI, seperti mendaftarkan nomor Smartphone yang bukan milik pribadinya ataupun membuat PIN wondr maupun Password Login yang mudah ditebak, akan menjadi tanggung jawab Nasabah/Pengguna sepenuhnya."
+        },
+        {
+          "code": "4.h",
+          "level": "h",
+          "text": "Nasabah/Pengguna menyatakan bahwa Nasabah/Pengguna telah membaca, memahami dan menyetujui segala hak Nasabah/Pengguna sebagai subjek Data Pribadi. Penggunaan atas Aplikasi wondr by BNI menjadi tanggung jawab Nasabah/Pengguna, dan Bank tidak bertanggung jawab atas segala kerugian yang ditimbulkan akibat penggunaan Aplikasi wondr by BNI, baik materiil dan/atau immaterial, yang disebabkan karena ketidakhati-hatian dan/atau kecerobohan dan/atau kesalahan dan/atau kelalaian dan/atau kesengajaan dan/atau penyalahgunaan yang dilakukan oleh Nasabah/Pengguna dan/atau pihak lain (sepanjang pihak lain tersebut bukan pihak ketiga yang ditunjuk oleh Bank), dan juga dalam hal terjadinya kegagalan pelindungan Data Pribadi. Dalam hal terjadinya kegagalan demikian, maka persetujuan yang Nasabah/Pengguna berikan kepada Bank akan berlaku pula sebagai bentuk pengesampingan atas segala hak Nasabah/Pengguna untuk menyampaikan tuntutan dan/atau meminta ganti kerugian dalam bentuk apapun terhadap Bank apabila Bank telah mengupayakan pelindungan Data Pribadi Nasabah/Pengguna."
+        }
+      ]
+    },
+    {
+      "section_number": "5",
+      "title": "PENGAMANAN TRANSAKSI",
+      "clauses": [
+        {
+          "code": "5.a",
+          "level": "a",
+          "text": "Kerahasiaan dan penggunaan Password Login dan PIN wondr Aplikasi wondr by BNI adalah sepenuhnya menjadi tanggung jawab Pengguna dan hanya boleh diketahui dan digunakan oleh Pengguna yang bersangkutan."
+        },
+        {
+          "code": "5.b",
+          "level": "b",
+          "text": "Pengguna wajib menjaga kerahasiaan Password Login dan PIN wondr miliknya agar tidak diketahui dan tidak digunakan oleh pihak lain, diantaranya dengan cara:",
+          "subclauses": [
+            {
+              "code": "5.b.1",
+              "level": "1",
+              "text": "Tidak memberitahukannya kepada siapapun termasuk kepada petugas Bank."
+            },
+            {
+              "code": "5.b.2",
+              "level": "2",
+              "text": "Tidak mencatat atau menyimpannya secara tertulis pada kertas atau media penyimpanan lainnya yang memungkinkan diketahui orang lain."
+            },
+            {
+              "code": "5.b.3",
+              "level": "3",
+              "text": "Berhati-hati dalam menggunakannya agar tidak terlihat orang lain."
+            },
+            {
+              "code": "5.b.4",
+              "level": "4",
+              "text": "Mengganti Password Login atau PIN wondr Aplikasi wondr by BNI secara berkala."
+            },
+            {
+              "code": "5.b.5",
+              "level": "5",
+              "text": "Tidak menggunakan Password Login dan PIN wondr yang mudah ditebak (penggunaan identitas pribadi seperti tanggal lahir)."
+            },
+            {
+              "code": "5.b.6",
+              "level": "6",
+              "text": "Membuat Password Login dan PIN wondr yang berbeda dari PIN atau Password e-channel lainnya seperti ATM dan SMS Banking."
+            }
+          ]
+        },
+        {
+          "code": "5.c",
+          "level": "c",
+          "text": "Pengguna diberikan kebebasan untuk membuat Password Login dan PIN wondr serta dapat mengubah atau menggantinya sehari sekali melalui Aplikasi wondr by BNI."
+        },
+        {
+          "code": "5.d",
+          "level": "d",
+          "text": "Apabila Smartphone yang digunakan untuk bertransaksi Aplikasi wondr by BNI hilang/dicuri/berganti kepemilikan maka Pengguna wajib memberitahukan hal tersebut kepada Bank melalui BNI Call untuk dilakukan mekanisme pemblokiran SMS OTP agar Smartphone tersebut tidak dapat menerima SMS OTP yang dikirim oleh Bank."
+        },
+        {
+          "code": "5.e",
+          "level": "e",
+          "text": "Dalam hal Pengguna mengetahui atau menduga Password Login atau PIN wondr miliknya telah diketahui oleh pihak lain, maka Pengguna wajib segera melakukan pengamanan dan perubahan terhadap Password Login atau PIN wondr miliknya."
+        },
+        {
+          "code": "5.f",
+          "level": "f",
+          "text": "Apabila karena suatu sebab Pengguna tidak dapat melakukan perubahan terhadap Password Login dan PIN wondr miliknya maka Pengguna wajib memberitahukan Bank melalui BNI Call untuk melaporkan hal tersebut."
+        },
+        {
+          "code": "5.g",
+          "level": "g",
+          "text": "Segala perintah, transaksi dan komunikasi berdasarkan penggunaan Password Login dan/atau PIN wondr milik Pengguna oleh pihak yang tidak berwenang sepenuhnya menjadi tanggung jawab Pengguna."
+        },
+        {
+          "code": "5.h",
+          "level": "h",
+          "text": "Penggunaan Password Login dan/atau PIN wondr mempunyai kekuatan hukum yang sama dengan perintah tertulis yang ditandatangani oleh Pengguna, oleh karena itu Pengguna dengan ini menyatakan bahwa penggunaan Password Login dan/atau PIN wondr dalam setiap perintah pada transaksi Aplikasi wondr by BNI juga merupakan pemberian kuasa dari Pengguna kepada Bank untuk melaksanakan transaksi termasuk untuk melakukan pendebetan rekening Pengguna baik dalam rangka pelaksanaan transaksi yang diperintahkan maupun untuk pembayaran biaya transaksi yang terkait."
+        },
+        {
+          "code": "5.i",
+          "level": "i",
+          "text": "Penyalahgunaan Password Login dan/atau PIN wondr Aplikasi wondr by BNI beserta akibatnya merupakan tanggung jawab Pengguna sepenuhnya."
+        },
+        {
+          "code": "5.j",
+          "level": "j",
+          "text": "Nasabah/Pengguna wajib menjaga Smartphone miliknya dari aplikasi berbahaya ( virus, malware, trojan , dll.) dan memodifikasi perangkat Smartphone ( jailbreak atau rooted ) dalam penggunaan Aplikasi wondr by BNI termasuk pelaksanaan Registrasi dan/atau Reaktivasi."
+        },
+        {
+          "code": "5.k",
+          "level": "k",
+          "text": "Apabila terjadi kehilangan Smartphone atau ada perubahan nomor Smartphone dan/atau alamat email yang terafiliasi dengan fasilitas Aplikasi wondr by BNI maka Pengguna wajib melakukan pelaporan melalui BNI Call dan/atau BNI Command Centre."
+        },
+        {
+          "code": "5.l",
+          "level": "l",
+          "text": "Segala kerugian yang ditimbulkan akibat aktivitas aplikasi berbahaya yang terdapat pada Smartphone milik Nasabah/Pengguna, merupakan menjadi tanggung jawab Nasabah/Pengguna sepenuhnya."
+        }
+      ]
+    },
+    {
+      "section_number": "6",
+      "title": "KEAMANAN DATA PRIBADI",
+      "clauses": []
+    },
+    {
+      "section_number": "7",
+      "title": "PENGGUNAAN APLIKASI WONDR BY BNI",
+      "clauses": [
+        {
+          "code": "7.a",
+          "level": "a",
+          "text": "Aplikasi wondr by BNI hanya boleh digunakan oleh Pengguna yang sah, yaitu Nasabah yang terdaftar pada sistem database Aplikasi wondr by BNI sesuai dengan Nomor Induk Kependudukan dan nomor Smartphone yang didaftarkannya."
+        },
+        {
+          "code": "7.b",
+          "level": "b",
+          "text": "Segala kerugian yang ditimbulkan akibat penggunaan Aplikasi wondr by BNI oleh pihak lain yang tidak berhak merupakan tanggung jawab Nasabah/Pengguna sepenuhnya, sepanjang hal tersebut bukan merupakan kesalahan Bank atau pihak lainnya."
+        },
+        {
+          "code": "7.c",
+          "level": "c",
+          "text": "Pengguna dapat memanfaatkan Aplikasi wondr by BNI untuk Transaksi Finansial dan Transaksi Non Finansial yang telah ditentukan oleh Bank."
+        },
+        {
+          "code": "7.d",
+          "level": "d",
+          "text": "Pengguna wajib mengisi secara lengkap dan benar serta memastikan ketepatan dan kelengkapan data yang dibutuhkan untuk Transaksi Finansial maupun Transaksi Non Finansial yang akan dilakukan."
+        },
+        {
+          "code": "7.e",
+          "level": "e",
+          "text": "Bank tidak bertanggung jawab terhadap segala dampak apapun yang mungkin timbul yang diakibatkan kelalaian, ketidaklengkapan, ketidakjelasan atau ketidaktepatan data yang diisi oleh Nasabah/Pengguna, baik saat Registrasi Aplikasi wondr by BNI, Reaktivasi Aplikasi wondr by BNI, maupun saat melakukan Transaksi Finansial maupun Transaksi Non Finansial pada Aplikasi wondr by BNI."
+        },
+        {
+          "code": "7.f",
+          "level": "f",
+          "text": "Pengguna memiliki kesempatan untuk memeriksa kembali dan/atau membatalkan data yang telah diisi pada saat konfirmasi transaksi."
+        },
+        {
+          "code": "7.g",
+          "level": "g",
+          "text": "Apabila telah diyakini kebenaran dan kelengkapan data yang diisi, sebagai tanda persetujuan pelaksanaan Transaksi Finansial maka Pengguna wajib memasukkan PIN wondr pada kolom yang telah disediakan, kecuali untuk Transaksi PIN-less sesuai Syarat dan Ketentuan Transaksi PIN-less pada Aplikasi wondr by BNI."
+        },
+        {
+          "code": "7.h",
+          "level": "h",
+          "text": "Segala Transaksi Finansial dan Transaksi Non Finansial yang telah diperintahkan kepada Bank dan disetujui oleh Pengguna (berupa pemberian PIN wondr yang benar) tidak dapat dibatalkan."
+        },
+        {
+          "code": "7.i",
+          "level": "i",
+          "text": "Setiap perintah yang telah disetujui oleh Pengguna yang tersimpan pada pusat data Bank merupakan data yang benar yang diterima sebagai bukti perintah dari Pengguna kepada Bank untuk melaksanakan perintah yang dimaksud."
+        },
+        {
+          "code": "7.j",
+          "level": "j",
+          "text": "Bank menerima dan menjalankan setiap perintah dari Pengguna sebagai perintah yang sah berdasarkan penggunaan Password Login serta PIN wondr (untuk Transaksi Finansial) maka Bank tidak mempunyai kewajiban untuk meneliti atau menyelidiki keaslian maupun keabsahan atau kewenangan pengguna Password Login dan PIN wondr atau menilai maupun membuktikan ketepatan dan kelengkapan perintah dimaksud, oleh karena itu perintah tersebut sah mengikat Pengguna sebagaimana mestinya."
+        },
+        {
+          "code": "7.k",
+          "level": "k",
+          "text": "Bank berhak untuk tidak melaksanakan perintah dari Pengguna, apabila:",
+          "subclauses": [
+            {
+              "code": "7.k.1",
+              "level": "1",
+              "text": "Saldo rekening Pengguna di Bank tidak mencukupi."
+            },
+            {
+              "code": "7.k.2",
+              "level": "2",
+              "text": "Bank mengetahui atau mempunyai alasan untuk menduga bahwa penipuan, penyalahgunaan, atau aksi kejahatan telah atau akan dilakukan."
+            }
+          ]
+        },
+        {
+          "code": "7.l",
+          "level": "l",
+          "text": "Sebagai bukti bahwa Transaksi Finansial yang diperintahkan Pengguna telah berhasil dilakukan oleh Bank, Pengguna akan mendapatkan bukti Transaksi Finansial dan bukti tersebut akan tersimpan di dalam database Bank sesuai dengan ketentuan peraturan perundang-undangan yang berlaku."
+        },
+        {
+          "code": "7.m",
+          "level": "m",
+          "text": "Pengguna menyetujui dan mengakui bahwa :",
+          "subclauses": [
+            {
+              "code": "7.m.1",
+              "level": "1",
+              "text": "Dengan dilaksanakannya Transaksi Non Finansial dan/atau Transaksi Finansial melalui Aplikasi wondr by BNI, maka semua perintah dan komunikasi dari Pengguna yang diterima Bank akan diperlakukan sebagai alat bukti yang sah meskipun tidak dibuat dokumen tertulis dan/atau dikeluarkan dokumen yang tidak ditandatangani."
+            },
+            {
+              "code": "7.m.2",
+              "level": "2",
+              "text": "Bukti atas perintah dari Pengguna kepada Bank dan segala bentuk komunikasi antara Bank dan Pengguna yang dikirim secara elektronik yang tersimpan pada pusat data Bank dan/atau tersimpan dalam bentuk penyimpanan informasi dan data lainnya di Bank, baik yang berupa dokumen tertulis, catatan, tape/cartridge, print out komputer dan/atau salinan, merupakan alat bukti yang sah yang tidak akan dibantah keabsahan, kebenaran atau keasliannya."
+            }
+          ]
+        },
+        {
+          "code": "7.n",
+          "level": "n",
+          "text": "Pengguna dengan ini memberikan kuasa kepada Bank untuk mendebet rekening Pengguna yang terdaftar di Bank untuk melaksanakan Transaksi Finansial yang diinstruksikan oleh Pengguna kepada Bank melalui Aplikasi wondr by BNI dan untuk pembayaran biaya administrasi serta biaya transaksi atas penggunaan Aplikasi wondr by BNI."
+        }
+      ]
+    },
+    {
+      "section_number": "8",
+      "title": "KETENTUAN PEMBUKAAN DAN PENGGUNAAN REKENING",
+      "clauses": [
+        {
+          "code": "8.a",
+          "level": "a",
+          "text": "Ketentuan Umum Rekening",
+          "subclauses": [
+            {
+              "code": "8.a.1",
+              "level": "1",
+              "text": "Jenis-jenis Rekening adalah tabungan dan deposito, baik dalam mata uang Rupiah maupun mata uang asing sesuai ketentuan yang berlaku pada Bank."
+            },
+            {
+              "code": "8.a.2",
+              "level": "2",
+              "text": "Dalam hal Rekening dibuka dengan mata uang asing dan terdapat fluktuasi pada nilai mata uang, maka hal ini merupakan risiko pasar sehingga Bank tidak bertanggung jawab atas perubahan nilai mata uang asing terhadap Rupiah."
+            },
+            {
+              "code": "8.a.3",
+              "level": "3",
+              "text": "Bilamana Nasabah membuka lebih dari satu Rekening pada Bank, maka Ketentuan Pembukaan dan Penggunaan Rekening ini berlaku untuk seluruh Rekening tersebut."
+            },
+            {
+              "code": "8.a.4",
+              "level": "4",
+              "text": "Bank atas pertimbangannya sendiri berhak menolak permohonan pembukaan Rekening oleh Nasabah dan memberitahukan kepada calon Nasabah."
+            },
+            {
+              "code": "8.a.5",
+              "level": "5",
+              "text": "Data Nasabah/Customer Information File (CIF) a) Dalam rangka penggunaan produk/fasilitas/jasa Bank, Nasabah wajib menyampaikan informasi, data dan dokumen pendukung yang dipersyaratkan Bank. b) Bank berhak meminta informasi, data dan dokumen pendukung serta menatakerjakan data profil Nasabah sesuai dengan kebutuhan dan peraturan perundang-undangan yang berlaku. c) Nasabah dengan ini menjamin bahwa semua data, informasi dan dokumen pendukung yang disampaikan kepada Bank adalah benar, lengkap, asli, sah dan terbaru sesuai dengan peraturan perundang-undangan yang berlaku. d) Nasabah wajib segera memberitahukan dan menyampaikan kepada Bank setiap perubahan data, informasi dan dokumen pendukung yang dipersyaratkan Bank. Perubahan tersebut efektif berlaku setelah diterima dan/atau disetujui Bank. e) Nasabah dengan ini menyatakan bertanggung jawab sepenuhnya atas segala kerugian dan risiko yang dialami sebagai akibat dari kelalaian/keterlambatan/tidak diberitahukannya perubahan sebagaimana diatur dalam huruf d di atas kepada Bank."
+            },
+            {
+              "code": "8.a.6",
+              "level": "6",
+              "text": "Transaksi a) Dana yang disetorkan/dipergunakan/ditransaksikan pada Bank tidak berasal dari/untuk tujuan tindak pidana pencucian uang (money laundering). b) Setiap transaksi yang menggunakan surat berharga/warkat kliring dan sarana perbankan lainnya berlaku pula ketentuan perundang-undangan yang mengatur tentang hal tersebut. c) Nasabah bertanggung jawab sepenuhnya atas keamanan perintah transaksi/surat berharga yang diberikan kepada Bank, termasuk penyalahgunaan dalam bentuk apapun, pemalsuan, dan penggandaan yang menyebabkan tindak kejahatan. d) Penarikan dana di Rekening dalam mata uang yang berbeda tergantung pada ketersediaan mata uang asing tersebut pada Bank dan tunduk pada ketentuan Bank mengenai komisi dan nilai tukar mata uang tersebut sebagaimana yang tertuang dalam media resmi Bank. e) Setoran dalam mata uang kertas atau mata uang asing yang sama akan diberlakukan dengan cara sesuai dengan peraturan dan ketentuan yang tertuang dalam media resmi Bank. f) Dalam rangka memenuhi peraturan perundang-undangan yang berlaku maupun atas pertimbangan Bank sendiri, Bank berhak menunda, menolak dan/atau membatalkan transaksi dan memberitahukan kepada Nasabah. g) Pelaksanaan transaksi valuta asing terhadap Rupiah yang dilakukan oleh Nasabah wajib mengikuti ketentuan dan peraturan perundang-undangan yang berlaku, termasuk kewajiban untuk menyerahkan dokumen-dokumen yang dipersyaratkan oleh kebijakan Bank dan/atau peraturan regulator dan/atau peraturan instansi berwenang yang berlaku dan dipedomani oleh Bank. h) Apabila terdapat perbedaan antara catatan pembukuan Bank dengan catatan yang ada pada Nasabah, maka yang berlaku adalah catatan pembukuan Bank, dan dengan ini Nasabah menyatakan, mengetahui, memahami, mengakui dan menerima bahwa catatan pembukuan Bank merupakan alat bukti yang sah dan mengikat Nasabah."
+            },
+            {
+              "code": "8.a.7",
+              "level": "7",
+              "text": "Bunga, pajak, dan biaya a) Pendapatan bunga yang diterima oleh Nasabah akan dikenakan pajak yang besarnya sesuai dengan ketentuan perpajakan yang berlaku. b) Ketentuan mengenai bunga yang diterima dan pajak atas bunga yang diterima serta biaya yang harus ditanggung oleh Nasabah terkait dengan produk/fasilitas/jasa Bank ditentukan oleh Bank, dan dapat berubah sewaktu-waktu, dengan pemberitahuan terlebih dahulu dari Bank kepada Nasabah melalui media resmi Bank. Dengan ini, Nasabah memberikan kuasa kepada Bank untuk sewaktu-waktu mendebet Rekening milik Nasabah untuk keperluan pembayaran pajak dan biaya dimaksud."
+            },
+            {
+              "code": "8.a.8",
+              "level": "8",
+              "text": "Nasabah meninggal dunia/pailit/dibubarkan a) Dalam hal Nasabah meninggal dunia atau dinyatakan pailit atau diletakkan di bawah pengawasan pihak yang ditunjuk untuk itu, Bank sewaktu-waktu berhak untuk menonaktifkan Rekening milik Nasabah dan hanya akan mengalihkan/ menyerahkan hak Nasabah kepada ahli waris atau pihak yang sah yang ditunjuk sesuai ketentuan Bank sebagaimana yang tertuang dalam media resmi Bank maupun peraturan perundang-undangan yang berlaku. b) Bank berhak meminta dokumen yang dapat diterima sebagai bukti yang sah bagi Bank terkait kedudukan ahli waris atau pihak yang sah ditunjuk sebagaimana dimaksud pada butir a) di atas."
+            },
+            {
+              "code": "8.a.9",
+              "level": "9",
+              "text": "Kehilangan dan penyalahgunaan Rekening/fasilitas lainnya a) Dalam hal bukti kepemilikan Rekening hilang, maka Nasabah wajib memberitahukan kepada Bank, melalui kantor cabang Bank terdekat selama waktu operasional Bank dengan disertai dokumen pendukung sebagaimana yang tertuang dalam media resmi Bank. b) Dalam hal Kartu Debit BNI atau perangkat fasilitas transaksi Bank melalui sarana elektronik (telepon seluler, BNI e-Secure/m-Secure, dsb) hilang atau terjadi permasalahan, maka Nasabah wajib memberitahukan kepada Bank, melalui kantor cabang Bank terdekat atau BNI Call atau melalui ponsel di (021) 68888. c) Bank dapat melakukan pemblokiran atas Rekening dan/atau Kartu Debit BNI berdasarkan laporan Nasabah apabila terdapat indikasi terjadinya penyalahgunaan Rekening yang dilengkapi dengan dokumen pendukung sebagaimana yang tertuang dalam media resmi Bank. d) Nasabah bertanggung jawab terhadap setiap transaksi yang terjadi sebelum diterimanya laporan kehilangan bukti kepemilikan Rekening dan/atau fasilitas lainnya dari Nasabah. e) Bank berhak sesuai dengan pertimbangannya sendiri untuk tidak menerbitkan penggantian bukti kepemilikan Rekening yang dilaporkan hilang apabila Bank mencurigai adanya suatu keganjilan atau itikad tidak baik dari hilangnya bukti kepemilikan Rekening tersebut. f) Setiap penggantian bukti kepemilikan Rekening dan/atau fasilitas lainnya yang dilaporkan hilang, Nasabah akan dikenakan biaya administrasi yang besarnya ditentukan oleh Bank yang tertuang pada media resmi Bank. g) Nasabah bertanggung jawab sepenuhnya atas segala tuntutan dan kerugian yang timbul karena kehilangan/pemalsuan dan/atau penyalahgunaan bukti kepemilikan Rekening dan/atau tanda pengguna dan nomor identifikasi pribadi/perangkat fasilitas lainnya, yang dilakukan oleh Nasabah atau pihak lainnya."
+            },
+            {
+              "code": "8.a.10",
+              "level": "10",
+              "text": "Rekening Tidak Aktif, Pemblokiran dan Penutupan Rekening a) Untuk kepentingan perlindungan Nasabah dan simpanannya, Bank atas pertimbangannya sendiri berhak melakukan pemblokiran Aplikasi wondr by BNI tanpa persetujuan Nasabah terlebih dahulu. b) Pengguna memberi hak dan wewenang kepada Bank untuk melakukan pemblokiran dan atau penutupan rekening, apabila terjadi satu atau lebih kondisi sebagai berikut:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Pengguna tidak mematuhi ketentuan Prinsip Mengenal Nasabah (Know Your Customer)."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Data/informasi/dokumen yang disampaikan Pengguna kepada Bank tidak benar atau diketahui dan/atau patut diduga palsu. iii. Memiliki sumber dana transaksi yang diketahui dan/atau patut diduga berasal dari hasil tindak pidana."
+        },
+        {
+          "code": "8.iv",
+          "level": "iv",
+          "text": "Terdapat dugaan penyalahgunaan Rekening dan/atau pembukaan/penggunaan Rekening."
+        },
+        {
+          "code": "8.v",
+          "level": "v",
+          "text": "Diduga nasabah berbentuk Shell Bank atau bank yang mengizinkan rekeningnya digunakan oleh Shell Bank. Dalam hal ini yang dimaksud dengan Shell Bank adalah bank yang tidak mempunyai kehadiran secara fisik di wilayah hukum bank tersebut didirikan dan memperoleh izin, dan tidak berafiliasi dengan kelompok usaha jasa keuangan yang menjadi subyek pengawasan terkonsolidasi yang efektif. c) Dalam hal Rekening tabungan selama 6 (enam) bulan berturut-turut maupun untuk periode lain yang ditetapkan tidak bermutasi debet maupun kredit selain pendebetan dan pengkreditan yang dilakukan oleh sistem Bank untuk biaya administrasi, pajak, denda dan bunga, maka Rekening tabungan akan diberi status tidak aktif. Perubahan periode untuk rekening yang diberi status tidak aktif akan diberitahukan oleh Bank kepada Nasabah dalam media resmi Bank. d) Rekening dengan status tidak aktif dikenakan biaya yang besarnya tertuang dalam media resmi Bank. e) Rekening dengan status tidak aktif dapat berubah menjadi Rekening aktif kembali apabila Nasabah melakukan transaksi atas Rekening tersebut baik transaksi setoran, penarikan dan pemindahbukuan debet melalui kantor cabang Bank. f) Bank berhak secara otomatis menutup Rekening tabungan yang berstatus tidak aktif sebagaimana dimaksud butir c) di atas dan bersaldo Rp. 0,- (saldo nihil) maupun untuk jumlah saldo tertentu yang dari waktu ke waktu akan diberitahukan oleh Bank kepada Nasabah melalui media resmi Bank.",
+          "subclauses": [
+            {
+              "code": "8.v.11",
+              "level": "11",
+              "text": "Lain-lain a) Bank berhak mengubah Ketentuan Pembukaan dan Penggunaan Rekening ini, termasuk ketentuan dan syarat-syarat yang berkaitan dengan produk/fasilitas/jasa yang secara khusus ditetapkan Bank yang menjadi satu kesatuan dan bagian yang tidak terpisahkan dari Syarat dan Ketentuan Penggunaan wondr by BNI, yang akan diinformasikan melalui media resmi Bank sesuai dengan jangka waktu pemberitahuan yang ditetapkan oleh Otoritas Jasa Keuangan. b) Bank tidak bertanggung jawab terhadap segala dampak apapun yang timbul sebagai akibat ketidaklengkapan atau kekeliruan data/informasi yang dilakukan oleh Nasabah. c) Dana yang tersedia dalam Rekening Nasabah dijamin dalam program penjaminan yang diselenggarakan Lembaga Penjamin Simpanan (LPS) sesuai dengan syarat dan ketentuan yang ditetapkan oleh LPS. d) Berdasarkan itikad baik, Bank berwenang melakukan koreksi mutasi dan saldo Rekening Nasabah apabila terjadi kekeliruan pembukuan oleh Bank, tanpa berkewajiban memberitahukan alasannya kepada Nasabah. e) Bank dapat melakukan pemeriksaan terhadap kebenaran data yang Pengguna sampaikan terkait pembukaan Rekening. f) Dalam rangka memenuhi ketentuan peraturan perundang-undangan tentang besaran nilai simpanan yang Dijamin Lembaga Penjamin Simpanan, Pengguna menyatakan setuju dan bersedia menerima risiko bahwa klaim penjaminan atas simpanan tidak akan dibayar apabila simpanan yang Pengguna tempatkan di Bank tidak memenuhi ketentuan penjaminan simpanan, atau dinyatakan sebagai klaim penjaminan tidak layak dibayar sebagaimana yang telah ditetapkan oleh LPS. Baik, saya akan membantu memperbaiki spacing pada poin-poin yang Anda berikan agar lebih mudah dibaca. Berikut adalah perbaikan spacing untuk bagian"
+            }
+          ]
+        },
+        {
+          "code": "8.b",
+          "level": "b",
+          "text": "Ketentuan Produk dan Fasilitas: Tabungan",
+          "subclauses": [
+            {
+              "code": "8.b.1",
+              "level": "1",
+              "text": "Ketentuan umum tabungan a) Rekening Tabungan terdiri dari Taplus/Taplus Bisnis/Taplus Muda/Taplus Diaspora/Emerald Savings tersedia dalam valuta Rupiah serta BNI Dollar USD/BNI Dollar SGD/BNI Dollar AUD dalam valuta asing. b) Rekening Tabungan diperuntukkan bagi penabung perorangan. c) Bukti kepemilikan Tabungan, Bank menerbitkan buku tabungan, Kartu Debit BNI, atau rekening koran elektronik (e-statement) yang ditetapkan oleh Bank dan bukti tersebut harus dipegang/disimpan Nasabah. d) Nasabah wajib menunjukkan bukti kepemilikan Rekening setiap kali melakukan penarikan dana melalui teller Bank ataupun untuk memberikan instruksi transaksi lainnya kepada Bank. e) Untuk pembukaan tabungan, Nasabah harus melakukan setoran sebesar minimum nominal yang dipersyaratkan Bank sesuai jenis tabungannya yang tertuang pada media resmi Bank. f) Batas minimum dan tata cara setoran berikutnya ke Rekening Tabungan ditetapkan sesuai jenis tabungannya sebagaimana tertuang dalam media resmi Bank. Dalam hal penyetoran ditetapkan dengan cara pemindahbukuan secara otomatis setiap bulan dari Rekening Nasabah lainnya (rekening afiliasi) maka Nasabah dengan ini memberi kuasa kepada Bank untuk melakukan pendebetan secara langsung rekening afiliasi tersebut setiap bulan pada tanggal dan jumlah berdasarkan permintaan Nasabah. Bank tidak berkewajiban melaksanakan pendebetan jika saldo di rekening afiliasi tidak mencukupi. g) Nasabah wajib memelihara saldo minimum yang dipersyaratkan oleh Bank sesuai jenis tabungannya. Nasabah akan dikenakan denda yang besarnya ditentukan Bank apabila saldo tabungan di bawah saldo minimum yang saat ini berlaku maupun apabila terdapat perubahan. Ketentuan mengenai saldo minimum dan pengenaan denda yang dikenakan tertuang dalam media resmi Bank. Perubahan nominal saldo minimum atau denda ditetapkan oleh Bank dan akan diberitahukan kepada nasabah melalui media resmi Bank. h) Catatan mutasi transaksi menggunakan buku tabungan atau rekening koran elektronik (e-Statement), yang ditentukan oleh Bank. Dalam hal dipergunakan buku tabungan maka mutasi transaksi agar selalu di update (dicetak). Dalam hal laporan mutasi transaksi dilakukan menggunakan Rekening koran elektronik (e-Statement) yang di-email oleh Bank, maka Nasabah wajib segera memberitahukan kepada Bank jika terdapat perubahan alamat email, dan perubahan tersebut efektif berlaku setelah diterima dan/atau disetujui Bank. i) Terhadap jenis Tabungan yang memiliki ketentuan batasan usia atau batasan waktu maksimum, maka dalam hal Nasabah telah melewati batasan usia dimaksud, Bank berhak dengan ini melakukan konversi ke jenis Tabungan lainnya yang ditentukan oleh Bank. Adapun syarat dan ketentuan (antara lain fitur, fasilitas, bunga, biaya) terhadap Rekening akan mengikuti syarat dan ketentuan pada jenis Tabungan setelah konversi. Jenis Tabungan yang memiliki batasan usia atau batasan waktu maksimum dan jenis Tabungan setelah konversi adalah sebagaimana tertuang dalam media resmi Bank. j) Kepemilikan Kartu Debit BNI dan buku tabungan atas Rekening yang dibuka bersifat pilihan/opsional. k) Nasabah pemilik Rekening Tabungan yang tidak memiliki buku tabungan dan Kartu Debit BNI hanya dapat melakukan transaksi melalui fasilitas Aplikasi wondr by BNI. Apabila Nasabah memilih untuk dapat melakukan transaksi melalui fasilitas e-channel lainnya seperti ATM, SMS Banking atau melalui kantor cabang Bank maka Nasabah wajib memiliki buku tabungan dan Kartu Debit BNI. l) Penutupan Rekening Tabungan oleh Nasabah dilakukan dengan ketentuan:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Nasabah harus datang sendiri ke kantor cabang pembuka Rekening dan tidak boleh dikuasakan."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Nasabah membawa asli bukti identitas diri yang masih berlaku dan memperlihatkan Kartu Debit BNI yang terafiliasi ke rekening buku tabungan hilang tersebut (jika rekening Nasabah berkartu). iii. Nasabah mengisi dan menandatangani Berita Acara Kehilangan di atas meterai selanjutnya membubuhkan tanda tangan di setiap lembar set print out R/C Tabungan yang dicetak oleh customer service selama 3 (tiga) bulan terakhir."
+        },
+        {
+          "code": "8.iv",
+          "level": "iv",
+          "text": "Verifikasi asli bukti identitas diri, tandatangan Nasabah dan data Nasabah dilakukan oleh customer service."
+        },
+        {
+          "code": "8.v",
+          "level": "v",
+          "text": "Customer service akan menutup Rekening Tabungan yang bukunya hilang dan melakukan pemutusan afiliasi kartu ke rekening tersebut (apabila Rekening Tabungan memiliki kartu). m) Bunga atas Rekening Tabungan dikreditkan ke dalam Rekening Tabungan yang bersangkutan setiap akhir bulan atau pada saat penutupan Rekening Tabungan dengan cara pemindahbukuan pada rekening yang ditunjuk oleh Nasabah. n) Bank menerima dan menjalankan setiap perintah dari Nasabah sebagai perintah yang sah berdasarkan penggunaan User ID, Nomor Kartu Debit, PIN wondr, dan Password Login, sehingga Bank tidak berkewajiban meneliti atau menyelidiki keaslian maupun keabsahan atau kewenangan pengguna User ID, Nomor Kartu Debit, PIN wondr, dan Password Login atau menilai maupun membuktikan ketepatan dan kelengkapan perintah dimaksud, oleh karena itu perintah tersebut sah mengikat Nasabah sebagaimana mestinya. o) Sebagai bukti bahwa transaksi penempatan dana pada Rekening Tabungan yang diperintahkan Nasabah telah berhasil dilakukan oleh Bank, Nasabah akan mendapatkan bukti transaksi berupa nomor referensi transaksi pada halaman transaksi Aplikasi wondr by BNI dan bukti tersebut akan tersimpan di dalam database Bank sesuai dengan ketentuan retensi yang dilakukan. p) Bukti transaksi pembukaan Rekening Tabungan melalui Aplikasi wondr by BNI akan dikirim ke alamat email Nasabah. q) Segala bentuk komplain/pengaduan Nasabah terkait dengan transaksi yang dilakukan Nasabah melalui Aplikasi wondr by BNI, akan ditindaklanjuti oleh Bank sepanjang Transaksi tersebut tersimpan pada pusat data Bank.",
+          "subclauses": [
+            {
+              "code": "8.v.2",
+              "level": "2",
+              "text": "Pembukaan Rekening Tabungan a) Nasabah dapat melakukan pembukaan Rekening Tabungan sesuai dengan produk yang ditampilkan pada Aplikasi wondr by BNI. b) Nasabah wajib mengisi data secara benar dan Nasabah bertanggung jawab sepenuhnya terhadap kelengkapan dan kebenaran data yang diisi oleh Nasabah. c) Nasabah perlu memilih Kartu Debit BNI jenis virtual atau fisik (ketersediaan mengacu pada informasi terbaru pada Aplikasi wondr by BNI) pada proses pembukaan Rekening Tabungan. d) Nasabah memiliki kesempatan untuk memeriksa kembali atau membatalkan data yang telah diisi pada saat konfirmasi oleh sistem, sebelum dilakukannya tanda persetujuan. e) Apabila Nasabah telah yakin akan kebenaran dan kelengkapan data yang diisi, sebagai tanda persetujuan pembukaan Rekening Tabungan, maka Nasabah wajib memasukkan PIN wondr pada kolom yang telah disediakan pada halaman Aplikasi wondr by BNI. f) Informasi setoran awal pembukaan Rekening Tabungan melalui Aplikasi wondr by BNI mengacu pada ketentuan yang ditampilkan langsung pada halaman informasi setoran awal ketika Pengguna telah menyelesaikan pembukaan Rekening Tabungan. g) Apabila Nasabah menginginkan buku tabungan dan Kartu Debit BNI fisik atas Rekening Tabungan yang telah dibuka, maka Nasabah dapat mendatangi kantor cabang Bank terdekat dengan membawa bukti pembukaan Rekening Tabungan. h) Nasabah menyetujui dan mengakui bahwa:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Dengan dilaksanakannya transfer dana untuk setoran awal pembukaan Rekening Tabungan, semua perintah dan komunikasi dari Nasabah yang diterima Bank akan diperlakukan sebagai alat bukti yang sah meskipun tidak dibuat dokumen tertulis dan atau dikeluarkan dokumen yang tidak ditandatangani."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Bukti atas perintah dari Nasabah kepada Bank dan segala bentuk komunikasi antara Bank dan Nasabah yang dikirim secara elektronik yang tersimpan pada pusat data Bank dan atau tersimpan dalam bentuk penyimpanan informasi dan data lainnya di Bank, baik yang berupa dokumen tertulis, catatan, tape/cartridge, print out komputer dan atau salinan, merupakan alat bukti yang sah yang tidak akan dibantah keabsahan, kebenaran atau keasliannya. i) Apabila terjadi gangguan dalam pelaksanaan yang berhubungan dengan pembukaan Rekening Tabungan maka Nasabah dapat menghubungi BNI Call/kantor cabang Bank terdekat.",
+          "subclauses": [
+            {
+              "code": "8.ii.3",
+              "level": "3",
+              "text": "Penghentian Akses Aplikasi wondr by BNI a) Penghentian Aplikasi wondr by BNI karena Nasabah lupa PIN wondr dan/atau Password Login, atau Nasabah salah memasukkan Password Login, tidak akan mempengaruhi Rekening Tabungan yang ada, Rekening Tabungan tetap dapat diakses setelah Nasabah melakukan aktivasi Aplikasi wondr by BNI kembali. b) Penghentian akses layanan Aplikasi wondr by BNI yang disebabkan hal-hal di luar huruf a) di atas akan berdampak pada penghentian akses ke Rekening Tabungan. Deposito"
+            },
+            {
+              "code": "8.ii.1",
+              "level": "1",
+              "text": "Ketentuan umum BNI Deposito a) Nasabah menjamin bahwa data dan informasi Nasabah sebagaimana yang tersimpan dalam pusat data Bank merupakan data dan informasi terkini. b) Transaksi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi yang telah diperintahkan kepada Bank dan disetujui oleh Nasabah tidak dapat dibatalkan. c) Setiap perintah yang disetujui Nasabah akan tersimpan pada pusat data Bank dan merupakan bukti perintah dari Nasabah kepada Bank untuk melaksanakan Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi. d) Bank menerima dan menjalankan setiap perintah dari Nasabah sebagai perintah yang sah berdasarkan penggunaan User ID, PIN wondr dan Password Login, sehingga Bank tidak berkewajiban meneliti atau menyelidiki keaslian maupun keabsahan atau kewenangan pengguna User ID, PIN wondr dan Password Login atau menilai maupun membuktikan ketepatan dan kelengkapan perintah dimaksud, oleh karena itu perintah tersebut sah mengikat Nasabah sebagaimana mestinya. e) Nasabah menyetujui dan mengakui bahwa:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Dengan dilaksanakannya transaksi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi melalui Aplikasi wondr by BNI, semua perintah dan komunikasi dari Nasabah yang diterima Bank akan diperlakukan sebagai alat bukti yang sah meskipun tidak dibuat dokumen tertulis dan/atau dikeluarkan dokumen yang tidak ditandatangani."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Bukti atas perintah dari Nasabah kepada Bank dan segala bentuk komunikasi antara Bank dan Nasabah yang dikirim secara elektronik yang tersimpan pada pusat data Bank dan/atau tersimpan dalam bentuk penyimpanan informasi dan data lainnya di Bank, termasuk namun tidak terbatas pada dokumen tertulis, catatan, tape/cartridge, print out komputer dan/atau salinan, merupakan alat bukti yang sah yang tidak akan dibantah keabsahan, kebenaran atau keasliannya. f) Apabila dalam pelaksanaan yang berhubungan dengan BNI Deposito melalui Aplikasi wondr by BNI terjadi gangguan sistem agar menghubungi BNI Call/BNI kantor cabang Bank terdekat.",
+          "subclauses": [
+            {
+              "code": "8.ii.2",
+              "level": "2",
+              "text": "Pembukaan dan Penempatan Deposito melalui Aplikasi wondr by BNI a) Nasabah wajib mengisi data secara benar dan bertanggung jawab terhadap segala dampak yang timbul akibat ketidaklengkapan atau kekeliruan data yang diisi oleh Nasabah pada saat pembukaan BNI Deposito. b) BNI Deposito dapat dibuka dalam valuta Rupiah dan valuta asing dengan mata uang Deposito USD dan Deposito SGD. c) Nasabah memiliki kesempatan untuk memeriksa atau membatalkan data yang telah diisi pada saat konfirmasi oleh sistem sebelum memberikan persetujuan berupa PIN wondr. d) Apabila Nasabah telah meyakini kebenaran dan kelengkapan data yang diisi, sebagai tanda persetujuan pelaksanaan Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi, maka Nasabah wajib memasukkan PIN wondr pada kolom yang telah disediakan pada halaman Aplikasi wondr by BNI. e) Nasabah wajib mengisi data jenis deposito, jangka waktu, nominal deposito dan mekanisme metode perpanjangan otomatis (automatic roll over) atau tidak otomatis (non automatic roll over) dengan teliti dan benar sesuai permintaan Nasabah. Kantor cabang Bank pengelola rekening BNI Deposito yang dibuka melalui layanan Aplikasi wondr by BNI adalah sama dengan kantor cabang yang mengelola Rekening Sumber Dana BNI Deposito. f) Nasabah dapat melakukan Penempatan Dana BNI Deposito sebesar saldo yang dikehendaki setelah memperhitungkan saldo minimal pada Rekening Sumber Dana BNI Deposito dengan memperhatikan ketentuan mengenai batas minimal dan maksimal Penempatan Dana BNI Deposito melalui Aplikasi wondr by BNI. Bank berhak untuk tidak melaksanakan perintah Nasabah apabila saldo Rekening Sumber Dana BNI Deposito tidak mencukupi. g) Sebagai bukti bagi Nasabah bahwa transaksi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi yang diperintahkan Nasabah telah berhasil dilakukan oleh Bank, setelah transaksi tersebut, Nasabah akan memperoleh notifikasi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi yang dapat dicetak dan disimpan dalam data komputer milik Nasabah, yang berisi nomor referensi dan data BNI Deposito akan tersimpan di dalam pusat data Bank selama BNI Deposito aktif. h) Nasabah dengan ini memberikan kuasa kepada Bank untuk mendebet Rekening Sumber Dana BNI Deposito yang terdaftar di Bank pada saat Penempatan Dana BNI Deposito yang diinstruksikan oleh Nasabah kepada Bank melalui Aplikasi wondr by BNI. i) Apabila Nasabah melakukan Penempatan Dana BNI Deposito dalam mata uang asing yang didebet dari rekening Tabungan/Giro IDR (1 CIF), maka Nasabah menyetujui pembelian valas untuk Penempatan Dana BNI Deposito dimaksud berdasarkan kurs jual yang Bank tentukan saat pelaksanaan Penempatan Dana BNI Deposito."
+            },
+            {
+              "code": "8.ii.3",
+              "level": "3",
+              "text": "Pencairan Dana Deposito melalui Aplikasi wondr by BNI a) Pencairan BNI Deposito mengikuti konfigurasi pilihan tenor dan tanggal pembukaan BNI Deposito yang telah ditentukan oleh Nasabah pada proses pembukaan BNI Deposito. b) Pencairan BNI Deposito dapat dilakukan secara otomatis pada tanggal jatuh tempo ketika Nasabah telah memilih konfigurasi non automatic roll over pada proses pembukaan rekening BNI Deposito. c) Pencairan BNI Deposito dapat ditujukan ke rekening dengan mata uang yang sama dengan BNI Deposito Nasabah maupun ditujukan pencairannya untuk rekening dengan mata uang IDR (bagi Deposito valas USD-SGD milik Nasabah). d) Pencairan BNI Deposito valas USD-SGD dengan rekening tujuan mata uang IDR kurs pengalinya menggunakan kurs beli yang ditentukan oleh Bank sesuai kurs yang berlaku saat pencairan BNI Deposito. e) Nasabah yang melakukan pencairan BNI Deposito sebelum tanggal jatuh tempo BNI Deposito, yaitu yang dilakukan di luar/selain tanggal jatuh tempo, dikategorikan sebagai Pencairan Sebelum Jatuh Tempo (PSJT). Ketentuan pencairannya mengacu pada ketentuan BNI Deposito yang berlaku umum di Bank, di mana proses pencairannya dapat dilakukan pukul 02:00 – 22:00 melalui Aplikasi wondr by BNI. f) Pencairan yang dapat dilakukan melalui Aplikasi wondr by BNI adalah untuk BNI Deposito yang dibuka dari Aplikasi wondr by BNI, selain di luar channel tersebut maka pencairan hanya dapat dilakukan di channel pembukaan deposito terkait. g) Pencairan BNI Deposito melalui kantor cabang Bank hanya dapat dilakukan apabila Nasabah meninggal dunia atau Nasabah menjadi tidak cakap hukum. h) Pencairan BNI Deposito jika sistem Bank dalam keadaan offline/terganggu atau kondisi permasalahan sistem Aplikasi wondr by BNI lainnya yang mempengaruhi layanan Pencairan BNI Deposito melalui Aplikasi wondr by BNI dilakukan dengan cara:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Proses Pencairan BNI Deposito yang dibuka melalui Aplikasi wondr by BNI ditunda hingga sistem normal/online kembali."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Apabila selama minimal 2 X 24 jam sistem terus menerus dalam keadaan offline/terganggu maka Nasabah dapat melakukan Pencairan BNI Deposito melalui BNI kantor cabang terdekat dengan membawa Notifikasi Penempatan Dana BNI Deposito/Pencairan BNI Deposito/perubahan Rekening Afiliasi dengan mengacu pada ketentuan Bank yang berlaku. iii. Pencairan BNI Deposito hanya dapat dilakukan dengan cara pemindahbukuan ke Rekening Afiliasi.",
+          "subclauses": [
+            {
+              "code": "8.ii.4",
+              "level": "4",
+              "text": "Lain-lain a) Pembukaan BNI Deposito melalui Aplikasi wondr by BNI tersedia dalam valuta IDR/USD/SGD dan dapat dilakukan oleh Nasabah yang sebelumnya telah memiliki rekening Tabungan/Giro Perorangan di Bank. b) Jangka waktu BNI Deposito yang dapat dipilih oleh pengguna adalah 1, 3, 6, 12, dan 24 bulan. c) Pembayaran Bunga BNI Deposito dilaksanakan setiap bulan pada setiap tanggal yang sama dengan tanggal pembukaan rekening BNI Deposito (tanggal jatuh tempo) setelah dipotong pajak. d) Nasabah dapat memilih metode perpanjangan BNI Deposito yakni automatic roll over pokok (perpanjangan pokok BNI Deposito secara otomatis pada saat tanggal jatuh tempo); automatic roll over pokok dan bunga (perpanjangan pokok dan Bunga BNI Deposito secara otomatis pada saat tanggal jatuh tempo); atau non automatic roll over (perpanjangan BNI Deposito secara otomatis pada saat tanggal jatuh tempo). e) Tingkat suku Bunga BNI Deposito sesuai dengan ketentuan yang berlaku di Bank. Khusus untuk valuta asing, maka kurs yang diacu untuk mengkonversi ke dalam Rupiah adalah kurs yang berlaku di Bank pada saat perhitungan Bunga BNI Deposito dimaksud. f) Pajak atas Bunga BNI Deposito akan dipotong langsung dari Bunga BNI Deposito yang menjadi hak Nasabah untuk disetorkan ke kas negara sebagaimana diatur dalam ketentuan perundang-undangan. g) BNI Deposito dijamin oleh Lembaga Penjamin Simpanan sebagaimana diatur dalam peraturan perundang-undangan. Fasilitas Transfer Terjadwal yang didaftarkan dari wondr by BNI"
+            },
+            {
+              "level": "list",
+              "text": "Nasabah memberi kuasa kepada Bank untuk melaksanakan pengiriman uang (transfer) secara otomatis sebesar nominal yang ditetapkan oleh Nasabah saat pendaftaran transfer terjadwal. Kuasa tersebut berlaku terus menerus sejak disetujuinya proses pendaftaran transfer terjadwal pada Aplikasi wondr by BNI dan berakhir pada saat periode transfer terjadwal telah selesai. Tidak tersedianya dana pada Rekening Nasabah pada saat hari/tanggal pendebetan akan menyebabkan status transfer terjadwal tidak berhasil, dan untuk kondisi berikut Nasabah dapat melakukan transfer biasa untuk menutup kegagal transfer terjadwalnya. Apabila nomor rekening tujuan tidak ditemukan pada sistem penyedia jasa akan menyebabkan transfer terjadwalnya dibatalkan oleh sistem."
+            },
+            {
+              "level": "list",
+              "text": "Untuk setiap transaksi transfer terjadwal, Nasabah akan dibebankan biaya yang tertuang dalam media resmi Bank (apabila Nasabah melakukan transaksi transfer terjadwal ke bank lain)."
+            },
+            {
+              "level": "list",
+              "text": "Bila Nasabah bermaksud menghentikan transfer terjadwal berdasarkan keinginannya sendiri, maka Nasabah wajib melakukan proses penghentian transfer terjadwal secara langsung dari Aplikasi wondr by BNI ."
+            }
+          ]
+        },
+        {
+          "code": "8.c",
+          "level": "c",
+          "text": "Ketentuan Lain-Lain",
+          "subclauses": [
+            {
+              "code": "8.c.1",
+              "level": "1",
+              "text": "Nasabah new to Bank (NTB) a) Nasabah dengan kriteria NTB adalah perorangan yang belum memiliki rekening di Bank dan sesuai dengan kebijakan Bank melakukan pembukaan rekening dengan jenis BNI Taplus Digital melalui kanal digital Bank yang baru, yaitu Aplikasi wondr by BNI. b) Ketentuan setoran awal untuk pembukaan BNI Taplus Digital bagi Nasabah NTB:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Setoran awal harus disetorkan dalam bentuk tunai melalui cabang atau transfer dari rekening lain."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Nasabah wajib melakukan setoran awal sesuai dengan jumlah yang telah ditentukan oleh Bank. iii. Setoran awal yang dilakukan akan langsung dikreditkan ke dalam rekening tabungan nasabah dan dapat digunakan sesuai dengan ketentuan bank."
+        },
+        {
+          "code": "8.iv",
+          "level": "iv",
+          "text": "Dengan melakukan setoran awal, Nasabah dianggap telah membaca, memahami, dan menyetujui semua syarat dan ketentuan yang berlaku terkait pembukaan Rekening Tabungan."
+        },
+        {
+          "code": "8.v",
+          "level": "v",
+          "text": "Nasabah wajib mematuhi semua ketentuan yang telah ditetapkan oleh Bank terkait setoran awal dan pembukaan Rekening Tabungan.",
+          "subclauses": [
+            {
+              "code": "8.v.2",
+              "level": "2",
+              "text": "Nasabah existing to Bank (ETB) a) Nasabah dengan kriteria ETB adalah Nasabah perorangan yang sudah memiliki rekening di Bank atau sudah terdaftar sebelumnya sebagai Nasabah di Bank. b) Ketentuan setoran awal untuk pembukaan Rekening Tabungan bagi Nasabah ETB:"
+            }
+          ]
+        },
+        {
+          "code": "8.i",
+          "level": "i",
+          "text": "Setoran awal dilakukan dengan cara mentransfer dana dari rekening eksisting Nasabah termasuk namun tidak terbatas pada BNI Taplus/BNI Taplus Bisnis Perorangan/BNI Giro Perorangan/BNI Taplus Muda/BNI Taplus Diaspora/BNI Emerald Saving/BNI Dollar (USD, SGD, AUD) ke Rekening Tabungan yang dibuka, sebesar saldo minimal sesuai ketentuan setelah memperhitungkan saldo minimal pada Rekening Sumber Dana."
+        },
+        {
+          "code": "8.ii",
+          "level": "ii",
+          "text": "Bank berhak untuk tidak melaksanakan perintah Nasabah karena saldo Rekening Sumber Dana di Bank tidak cukup. iii. Nasabah dengan ini memberikan kuasa kepada Bank untuk mendebet Rekening Sumber Dana pada saat pembukaan Tabungan yang diinstruksikan oleh Nasabah kepada Bank."
+        },
+        {
+          "code": "8.iv",
+          "level": "iv",
+          "text": "Segala biaya yang timbul atas transfer dana dari Rekening Sumber Dana ke Rekening Tabungan menjadi beban Nasabah. c) Data Nasabah yang melakukan pembukaan Rekening Tabungan akan sama dengan data Nasabah pada rekening Nasabah yang merupakan sumber dana untuk setoran awal pembukaan Rekening Tabungan. d) transaksi setoran awal pada Rekening Tabungan yang telah diperintahkan kepada Bank dan disetujui oleh Nasabah tidak dapat dibatalkan. e) kantor cabang Bank sebagai pengelola Rekening Tabungan yang dibuka melalui Aplikasi wondr by BNI adalah sama dengan kantor cabang Bank pembuka rekening yang terhubung dengan fasilitas Aplikasi wondr by BNI yang digunakan untuk membuka Rekening Tabungan."
+        }
+      ]
+    },
+    {
+      "section_number": "9",
+      "title": "KETENTUAN TRANSAKSI QUICK ACCESS",
+      "clauses": [
+        {
+          "code": "9.a",
+          "level": "a",
+          "text": "Transaksi Quick Access untuk fitur QRIS"
+        },
+        {
+          "code": "9.b",
+          "level": "b",
+          "text": "Transaksi Quick Access untuk fitur TapCash"
+        },
+        {
+          "code": "9.c",
+          "level": "c",
+          "text": "Transaksi Quick Access untuk fitur e-Wallet"
+        },
+        {
+          "code": "9.d",
+          "level": "d",
+          "text": "Layanan dan fitur Transaksi Quick Access lainnya yang ditentukan oleh Bank dengan mengacu pada syarat dan ketentuan masing-masing fitur dimaksud."
+        }
+      ]
+    },
+    {
+      "section_number": "10",
+      "title": "KETENTUAN TRANSAKSI QRIS",
+      "clauses": [
+        {
+          "code": "10.a",
+          "level": "a",
+          "text": "Pengguna dapat melakukan transaksi pembayaran QRIS dengan menggunakan kode QR berstandar QRIS."
+        },
+        {
+          "code": "10.b",
+          "level": "b",
+          "text": "Biaya atas transaksi QRIS adalah biaya Merchant Discount Rate (MDR) yang dibebankan kepada merchant sesuai dengan mekanisme yang berlaku."
+        },
+        {
+          "code": "10.c",
+          "level": "c",
+          "text": "Transaksi QRIS dapat menggunakan sumber dana berupa rekening atau kartu kredit pengguna yang terdaftar pada Bank dengan tetap memperhatikan kondisi sisa saldo/ limit sumber dana yang digunakan."
+        }
+      ]
+    },
+    {
+      "section_number": "11",
+      "title": "PELAYANAN DAN PENYELESAIAN PENGADUAN",
+      "clauses": [
+        {
+          "code": "11.a",
+          "level": "a",
+          "text": "Untuk setiap permasalahan yang berkaitan dengan transaksi dan/atau akses fasilitas Aplikasi wondr by BNI, Pengguna dapat menyampaikan pengaduan kepada Bank secara lisan dan/atau tertulis."
+        },
+        {
+          "code": "11.b",
+          "level": "b",
+          "text": "Dalam hal penyampaian pengaduan dilakukan secara lisan kepada Bank, berlaku ketentuan sebagai berikut:",
+          "subclauses": [
+            {
+              "code": "11.b.1",
+              "level": "1",
+              "text": "Pengguna dapat menghubungi Bank melalui BNI Customer Experience Center dan/atau melalui BNI Call untuk layanan 24 jam."
+            },
+            {
+              "code": "11.b.2",
+              "level": "2",
+              "text": "Informasi yang perlu dipersiapkan oleh Pengguna adalah mengenai identitas diri, kartu debit BNI Pengguna, dan permasalahan yang diadukan."
+            },
+            {
+              "code": "11.b.3",
+              "level": "3",
+              "text": "Bank melakukan verifikasi kepada Pengguna pada saat pengaduan disampaikan."
+            },
+            {
+              "code": "11.b.4",
+              "level": "4",
+              "text": "Bank menyampaikan konfirmasi penerimaan pengaduan kepada Pengguna yang paling sedikit berupa nomor registrasi pengaduan dan tanggal penerimaan pengaduan."
+            },
+            {
+              "code": "11.b.5",
+              "level": "5",
+              "text": "Bank akan melakukan tindak lanjut atas pengaduan yang disampaikan, berupa pemeriksaan internal atas pengaduan secara kompeten, benar, dan objektif, serta apabila diperlukan Bank dapat menerima dokumen atau informasi dari Pengguna atau pihak lainnya."
+            },
+            {
+              "code": "11.b.6",
+              "level": "6",
+              "text": "Dalam hal Bank membutuhkan dokumen pendukung yang dimiliki oleh Pengguna untuk penyelesaian pengaduan yang disampaikan, Bank dapat meminta kepada Pengguna untuk menyampaian pengaduan secara tertulis dengan melampirkan dokumen pendukung yang diperlukan."
+            },
+            {
+              "code": "11.b.7",
+              "level": "7",
+              "text": "Bank memberikan tanggapan secara lisan dan/atau tertulis atas pengaduan kepada Pengguna atas pengaduan yang diterima."
+            },
+            {
+              "code": "11.b.8",
+              "level": "8",
+              "text": "Hal-hal lain terkait penerimaan, penanganan, dan penyelesaian pengaduan mengacu pada ketentuan perundang-undangan yang berlaku."
+            }
+          ]
+        },
+        {
+          "code": "11.c",
+          "level": "c",
+          "text": "Dalam hal penyampaian pengaduan dilakukan secara tertulis kepada Bank, berlaku ketentuan sebagai berikut:",
+          "subclauses": [
+            {
+              "code": "11.c.1",
+              "level": "1",
+              "text": "Pengguna dapat menyampaikan pengaduan melalui BNI Customer Experience Center dan/atau BNI Call."
+            },
+            {
+              "code": "11.c.2",
+              "level": "2",
+              "text": "Dokumen dan informasi yang harus dipenuhi Pengguna dalam penyampaian pengaduan secara tertulis adalah sebagai berikut: a) Identitas Pengguna dan/atau Perwakilan Pengguna; b) surat kuasa khusus (dalam hal Pengguna mewakilkan proses pengaduan kepada perwakilan Pengguna); c) jenis dan tanggal Transaksi Finansial dan/atau Transaksi Non Finansial; d) permasalahan yang diadukan; e) kartu debit BNI Pengguna; dan f) bukti kepemilikan rekening Pengguna."
+            },
+            {
+              "code": "11.c.3",
+              "level": "3",
+              "text": "Bank melakukan verifikasi dengan melakukan penelaahan terhadap kelengkapan dokumen yang disampaikan oleh Pengguna."
+            },
+            {
+              "code": "11.c.4",
+              "level": "4",
+              "text": "Bank menangani pengaduan yang disampaikan dalam hal Pengguna telah melengkapi dokumen yang ditetapkan."
+            },
+            {
+              "code": "11.c.5",
+              "level": "5",
+              "text": "Bank menyampaikan bukti tanda terima pengaduan kepada Pengguna yang paling sedikit berupa nomor registrasi pengaduan, tanggal penerimaan pengaduan, dan nomor telepon fungsi atau unit layanan pengaduan Bank yang dapat dihubungi oleh Pengguna."
+            },
+            {
+              "code": "11.c.6",
+              "level": "6",
+              "text": "Bank akan melakukan tindak lanjut atas pengaduan yang disampaikan, berupa pemeriksaan internal atas pengaduan secara kompeten, benar, dan objektif, serta apabila diperlukan Bank dapat menerima dokumen atau informasi dari Pengguna atau pihak lainnya."
+            },
+            {
+              "code": "11.c.7",
+              "level": "7",
+              "text": "Bank memberikan tanggapan secara tertulis atas pengaduan kepada Pengguna atas pengaduan yang diterima."
+            },
+            {
+              "code": "11.c.8",
+              "level": "8",
+              "text": "Hal-hal lain terkait penerimaan, penanganan, dan penyelesaian pengaduan mengacu pada ketentuan perundang-undangan yang berlaku."
+            }
+          ]
+        },
+        {
+          "code": "11.d",
+          "level": "d",
+          "text": "Tidak terdapat pengenaan biaya dalam melaksanakan kebijakan dan prosedur layanan pengaduan yang disampaikan oleh Pengguna kepada Bank."
+        },
+        {
+          "code": "11.e",
+          "level": "e",
+          "text": "Dalam hal pengaduan yang disampaikan oleh Pengguna kepada Bank terkait dengan permintaan pengembalian dana, maka proses penanganan dan penyelesaian pengaduan akan dilakukan sesuai ketentuan perundang-undangan yang berlaku."
+        }
+      ]
+    },
+    {
+      "section_number": "12",
+      "title": "NILAI TAMBAH PENGGUNAAN APLIKASI WONDR BY BNI",
+      "clauses": [
+        {
+          "code": "12.a",
+          "level": "a",
+          "text": "Memberikan kemudahan bagi Pengguna untuk bertransaksi dimanapun dan kapanpun dengan menggunakan Smartphone miliknya."
+        },
+        {
+          "code": "12.b",
+          "level": "b",
+          "text": "Menawarkan layanan transaksi yang lebih mudah, cepat, hemat, dan praktis. Pengguna dapat melakukan transaksi isi ulang pulsa, transfer dana, pembelian dan pembayaran tagihan dengan lebih mudah melalui Aplikasi wondr by BNI."
+        },
+        {
+          "code": "12.c",
+          "level": "c",
+          "text": "Memberikan keamanan transaksi yang maksimal, sehingga membuat Pengguna semakin nyaman dalam melakukan Transaksi Finansial maupun Transaksi Non Finansial."
+        }
+      ]
+    },
+    {
+      "section_number": "13",
+      "title": "BIAYA PENGGUNAAN APLIKASI WONDR BY BNI",
+      "clauses": [
+        {
+          "code": "13.a",
+          "level": "a",
+          "text": "Biaya Komunikasi Biaya Komunikasi akan dibebankan oleh provider telepon atau penyedia komunikasi lainnya yang terlibat (Internet Service Provider/ISP) kepada Pengguna atas setiap penggunaan jaringan komunikasi yang digunakan untuk mengakses fasilitas Aplikasi wondr by BNI. Besarnya biaya komunikasi ditetapkan oleh masing-masing provider telepon atau ISP yang digunakan Nasabah/Pengguna dan sepenuhnya menjadi pendapatan bagi provider telepon atau ISP yang bersangkutan serta Bank tidak bertanggung jawab atas hal-hal terkait biaya komunikasi ini."
+        },
+        {
+          "code": "13.b",
+          "level": "b",
+          "text": "Biaya Transaksi Biaya transaksi dibebankan kepada Pengguna atas setiap Transaksi Finansial yang dilakukannya. Besarnya biaya transaksi ditetapkan oleh Bank untuk jenis Transaksi Finansial tertentu yang dibebankan kepada Pengguna dengan cara pendebetan langsung rekening Pengguna setelah proses transaksi berhasil dilakukan."
+        }
+      ]
+    },
+    {
+      "section_number": "14",
+      "title": "POTENSI RISIKO",
+      "clauses": [
+        {
+          "code": "14.a",
+          "level": "a",
+          "text": "Lupa Password Login / PIN wondr dapat menyebabkan terblokirnya fasilitas Aplikasi wondr by BNI (umumnya karena Pengguna melakukan salah input sebanyak 3 (tiga) kali secara berturut-turut)."
+        },
+        {
+          "code": "14.b",
+          "level": "b",
+          "text": "Diketahuinya Password Login dan/atau PIN wondr oleh pihak lain yang tidak berwenang, dapat berakibat terjadinya tindak kejahatan finansial oleh pihak dimaksud."
+        },
+        {
+          "code": "14.c",
+          "level": "c",
+          "text": "Diketahuinya informasi rekening pribadi, berakibat pada terganggunya privacy Nasabah/Pengguna dan tidak menutup kemungkinan dapat disalahgunakan oleh pihak lain."
+        },
+        {
+          "code": "14.d",
+          "level": "d",
+          "text": "Salah input data-data yang diperlukan saat melakukan Transaksi Finansial dapat berakibat terjadinya salah pengkreditan atau salah pembayaran, dan untuk proses pengembalian dananya memerlukan proses lebih lanjut karena harus terdapat persetujuan terlebih dahulu dari pihak-pihak terkait."
+        },
+        {
+          "code": "14.e",
+          "level": "e",
+          "text": "Kehilangan Smartphone yang telah diaktifkan Aplikasi wondr by BNI, sehingga dapat berpotensi disalahgunakan untuk Transaksi Non Finansial dan/atau Transaksi Finansial."
+        }
+      ]
+    },
+    {
+      "section_number": "15",
+      "title": "PEMBLOKIRAN (PENGHENTIAN SEMENTARA) AKSES APLIKASI WONDR BY BNI",
+      "clauses": [
+        {
+          "code": "15.a",
+          "level": "a",
+          "text": "Pemblokiran akses ke fasilitas Aplikasi wondr by BNI dapat dilakukan / terjadi apabila:",
+          "subclauses": [
+            {
+              "code": "15.a.1",
+              "level": "1",
+              "text": "Adanya permintaan dari Pengguna kepada Bank untuk menghentikan akses ke fasilitas Aplikasi wondr by BNI, yang antara lain dapat disebabkan oleh: a) Nasabah lupa Password Login Aplikasi wondr by BNI (Aplikasi wondr by BNI belum terblokir). b) Telah terjadinya kehilangan/pencurian/bergantinya kepemilikan Smartphone yang digunakan Pengguna untuk bertransaksi melalui Aplikasi wondr by BNI."
+            },
+            {
+              "code": "15.a.2",
+              "level": "2",
+              "text": "Pengguna salah memasukkan Password Login sebanyak 3 (tiga) kali berturut-turut (Aplikasi wondr by BNI sudah terblokir)."
+            },
+            {
+              "code": "15.a.3",
+              "level": "3",
+              "text": "Diterimanya laporan dari Pengguna mengenai dugaan atau diketahuinya Password Login oleh pihak lain yang tidak berwenang."
+            },
+            {
+              "code": "15.a.4",
+              "level": "4",
+              "text": "Bank menduga adanya penyalahgunaan rekening Pengguna termasuk dalam kaitannya dengan pelanggaran hukum."
+            },
+            {
+              "code": "15.a.5",
+              "level": "5",
+              "text": "Bank melaksanakan suatu keharusan sesuai ketentuan perundang-undangan yang berlaku."
+            },
+            {
+              "code": "15.a.6",
+              "level": "6",
+              "text": "Bank mengalami gangguan atau menghentikan pemberian jasa fasilitas Aplikasi wondr by BNI. Terhadap hal tersebut, Bank akan menyampaikan pemberitahuan kepada Pengguna melalui Media Resmi Bank."
+            }
+          ]
+        },
+        {
+          "code": "15.b",
+          "level": "b",
+          "text": "Pemblokiran akses ke fasilitas Aplikasi wondr by BNI dapat dilakukan dengan cara menghubungi BNI Call atau kantor cabang Bank terdekat."
+        },
+        {
+          "code": "15.c",
+          "level": "c",
+          "text": "Untuk melakukan Reaktivasi Aplikasi wondr by BNI karena pemblokiran akses fasilitas Aplikasi wondr by BNI, sebagaimana dimaksud dalam butir 15.a.1).a) dan 15.a.2) di atas Pengguna dapat melakukan buka blokir dengan mengakses menu Lupa Password Login /PIN wondr yang ada pada Aplikasi wondr by BNI."
+        },
+        {
+          "code": "15.d",
+          "level": "d",
+          "text": "Permintaan pemblokiran akses ke Aplikasi wondr by BNI karena keinginan Pengguna, harus disampaikan sendiri oleh Pengguna yang bersangkutan (tidak boleh diwakilkan)."
+        }
+      ]
+    },
+    {
+      "section_number": "16",
+      "title": "FORCE MAJEURE",
+      "clauses": [
+        {
+          "code": "16.a",
+          "level": "a",
+          "text": "Pengguna akan membebaskan Bank dari tuntutan, dalam hal Bank tidak dapat melaksanakan perintah dari Pengguna baik sebagian maupun seluruhnya karena kejadian-kejadian atau sebab-sebab di luar kekuasaan atau kemampuan Bank termasuk pada bencana alam, perang, huru-hara, keadaan peralatan, sistem atau transmisi yang tidak berfungsi, gangguan listrik, gangguan telekomunikasi, kebijakan pemerintah, serta kejadian-kejadian atau sebab-sebab lain di luar kekuasaan atau kemampuan Bank."
+        },
+        {
+          "code": "16.b",
+          "level": "b",
+          "text": "Dalam hal Bank tidak dapat melaksanakan perintah dari Pengguna baik sebagian maupun seluruhnya karena kejadian-kejadian atau sebab-sebab di atas, Bank akan menyampaikan pemberitahuan kepada Pengguna melalui Media Resmi Bank."
+        }
+      ]
+    },
+    {
+      "section_number": "17",
+      "title": "PEMBERITAHUAN",
+      "clauses": []
+    },
+    {
+      "section_number": "18",
+      "title": "LAIN-LAIN",
+      "clauses": [
+        {
+          "code": "18.a",
+          "level": "a",
+          "text": "Bank berhak menghentikan fasilitas Aplikasi wondr by BNI untuk sementara waktu maupun untuk jangka waktu tertentu yang ditentukan oleh Bank untuk keperluan pembaharuan, pemeliharaan, atau untuk tujuan lain dengan alasan yang dianggap baik oleh Bank dengan tetap mempertimbangkan kepentingan Pengguna dan sepanjang dilakukan sesuai dengan peraturan perundang-undangan yang berlaku."
+        },
+        {
+          "code": "18.b",
+          "level": "b",
+          "text": "Syarat dan Ketentuan ini tunduk pada hukum Indonesia dan berlaku sebagai perjanjian bagi Bank dan Pengguna."
+        },
+        {
+          "code": "18.c",
+          "level": "c",
+          "text": "Apabila terdapat perbedaan pendapat/perselisihan sehubungan dengan Syarat dan Ketentuan ini maka Bank dan Pengguna akan menyelesaikannya secara musyawarah."
+        },
+        {
+          "code": "18.d",
+          "level": "d",
+          "text": "Dalam hal tidak tercapai kesepakatan dalam musyawarah sebagaimana butir c di atas, maka Bank dan Pengguna sepakat untuk menyelesaikan perbedaan pendapat/perselisihan tersebut melalui Pengadilan."
+        },
+        {
+          "code": "18.e",
+          "level": "e",
+          "text": "Bank dan Pengguna sepakat untuk memilih domisili hukum yang umum dan tetap pada Kantor Kepaniteraan Pengadilan Negeri Jakarta Pusat."
+        },
+        {
+          "code": "18.f",
+          "level": "f",
+          "text": "Dalam hal salah satu ketentuan dalam Syarat dan Ketentuan ini dinyatakan batal berdasarkan suatu peraturan perundang-undangan maupun putusan hakim yang berkekuatan hukum tetap, maka pernyataan batal tersebut tidak mengurangi keabsahan atau menyebabkan batalnya persyaratan atau ketentuan lain dalam Syarat dan Ketentuan ini dan oleh karenanya dalam hal demikian ketentuan lain tersebut dalam ini tetap sah dan mengikat."
+        },
+        {
+          "code": "18.g",
+          "level": "g",
+          "text": "Syarat dan Ketentuan ini telah disesuaikan dengan ketentuan peraturan perundang-undangan termasuk ketentuan peraturan otoritas jasa keuangan."
+        },
+        {
+          "code": "18.h",
+          "level": "h",
+          "text": "Syarat dan ketentuan fitur lain yang terdapat pada Aplikasi wondr by BNI, merupakan satu kesatuan dan bagian yang tidak terpisahkan dari Syarat dan Ketentuan ini."
+        }
+      ]
+    }
+  ]
+}
