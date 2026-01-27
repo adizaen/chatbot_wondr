@@ -9,7 +9,7 @@ import json
 import time
 
 URL = "https://wondr.bni.co.id/info/faq"
-OUTPUT_FILE = "faq_all_categories.json"
+OUTPUT_FILE = "../output/faq_all_categories.json"
 
 
 def scrape_all_categories():

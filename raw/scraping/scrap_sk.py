@@ -7,7 +7,7 @@ import re
 import time
 
 URL = "https://wondr.bni.co.id/info/terms-conditions"
-OUTPUT_FILE = "sk_wondr.json"
+OUTPUT_FILE = "../output/sk_wondr.json"
 
 
 def clean_text(text: str) -> str:
